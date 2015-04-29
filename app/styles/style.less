@@ -251,7 +251,6 @@ footer {
 }
 
 /******* BLOG *******/
-
 article {
   overflow: hidden;
   .content {
@@ -300,6 +299,7 @@ article {
       position: relative;
       margin-bottom: 10px;
     }
+	
     .fade-content, .back {
       margin: 20px 0;
     }
@@ -323,6 +323,46 @@ article {
   pre code {
     word-break: normal;
   }
+}
+
+section .little-banner a{
+	color: white;
+	&:hover{
+		color: @secondary-color;
+		border-color: @secondary-color;
+	}
+}
+
+article.little-banner {
+ 	.blog-header{
+		border-bottom: 10px solid @primary-color;
+	}
+	.tags{
+	    bottom: 10px;
+	    top: auto;
+	    left: 0;
+		
+		> li {
+			background-color: @secondary-color;
+		}
+	}
+	> div div:not(:first-child) {
+		padding-left:20px;
+		padding-right:20px;
+	}
+	> div {
+		margin:0;
+		padding: 0;
+		
+		.cover {
+			margin:0;
+		}
+		.blog-title{
+			background-color: @primary-color;
+			height:200px;
+			padding-top: 10px;
+		}
+	}
 }
 
 #articles {

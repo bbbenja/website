@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title: Publier son apk sur le playstore en ligne de commande
 author: Florian
 cover: swtours-banner
