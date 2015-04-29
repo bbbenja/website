@@ -335,7 +335,7 @@ section .little-banner a{
 
 article.little-banner {
  	.blog-header{
-		border-bottom: 10px solid @primary-color;
+		border-bottom: 5px solid @primary-color;
 	}
 	.tags{
 	    bottom: 10px;
@@ -355,7 +355,7 @@ article.little-banner {
 		padding: 0;
 		
 		.cover {
-			margin:0;
+			margin: 0;
 		}
 		.blog-title{
 			background-color: @primary-color;
@@ -444,4 +444,16 @@ article.little-banner {
     background: #ccc;
     color: #000;
     padding: 0.2em 0;
+}
+
+@media (min-width: @screen-sm) {
+	article.little-banner {
+	 	> div {
+			.cover {
+				margin: 0;
+				margin-right: -15px;
+			}
+		}
+	}
+	
 }
