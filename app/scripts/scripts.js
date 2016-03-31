@@ -56,5 +56,26 @@ $(function () {
       e.preventDefault()
       $(e.target).parents("figure").toggleClass("show-quote");
     })
+
+    var myShakeEvent = new Shake({
+        threshold: 15, // optional shake strength threshold
+        timeout: 1000 // optional, determines the frequency of event generation
+    });
+    myShakeEvent.start();
+    window.addEventListener('shake', shakeEventDidOccur, false);
+
+    //function to call when shake occurs
+    var isShaken=false;
+    function shakeEventDidOccur () {
+        //put your own code here etc.
+        if (isShaken) {
+            document.getElementById("code-troopers").style.transform = "rotateZ(0deg)";
+            isShaken=false;
+        } else {
+            document.getElementById("code-troopers").style.transform = "rotateZ(180deg)";
+            isShaken=true;
+        }
+    }
+
 })
 ;

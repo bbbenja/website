@@ -19,6 +19,7 @@ module.exports = {
             'app/bower_components/jquery.scrollTo/jquery.scrollTo.js',
             'app/bower_components/owlcarousel/owl-carousel/owl.carousel.js',
             'app/bower_components/lightbox2/dist/js/lightbox.js',
+            'app/bower_components/shake.js/shake.js',
             'app/scripts/**/*.js'
         ],
         'srcIE8': [
