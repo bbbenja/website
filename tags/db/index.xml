@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Db on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/db/</link>
+    <link>http://test.code-troopers.com/tags/db/</link>
     <description>Recent content in Db on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 05 May 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/db/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/db/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Play2 accéder à la base de donnée</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/05/05/playdbbrowser</link>
+      <link>http://test.code-troopers.com/2014/05/05/playdbbrowser</link>
       <pubDate>Mon, 05 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/05/05/playdbbrowser</guid>
+      <guid>http://test.code-troopers.com/2014/05/05/playdbbrowser</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.playframework.com/&#34;&gt;Play2&lt;/a&gt;, c&amp;rsquo;est fun et c&amp;rsquo;est rapide !
 Il suffit de quelques instants pour avoir une appli qui tourne en local sans rien avoir à configurer &lt;a href=&#34;http://www.playframework.com/documentation/2.2.x/NewApplication&#34;&gt;voir la doc de play&lt;/a&gt;.
 En plus dès que l&amp;rsquo;on commence un peu à jouer, créer des entités, faire une page de CRUD, tout tourne toujours aussi bien. Il faut dire que c&amp;rsquo;est agréable, car &lt;a href=&#34;http://www.playframework.com/documentation/2.2.x/JavaEbean&#34;&gt;Ebean&lt;/a&gt; s&amp;rsquo;est occupé de générer les commandes sql dans le fichier &lt;em&gt;1.sql&lt;/em&gt; qui est joué automatiquement par play.&lt;/p&gt;
@@ -52,8 +52,8 @@ Mais pour pouvoir l&amp;rsquo;utiliser, il va falloir se discipliner un tout pet
 &lt;p&gt;Lorsqu&amp;rsquo;il se lance h2-browser devrait vous présenter une fenêtre de connexion comme celle-ci :&lt;/p&gt;
 
 &lt;div style=&#34;text-align : center&#34;&gt;
-    &lt;a style=&#34;display: inline&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/postPlayDbBrowser/h2-browser.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;Fenêtre de connection h2-browser&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postPlayDbBrowser/h2-browser.png&#34; alt=&#34;Fenêtre de connection h2-browser&#34;/&gt;
+    &lt;a style=&#34;display: inline&#34; href=&#34;http://test.code-troopers.com/images/postPlayDbBrowser/h2-browser.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;Fenêtre de connection h2-browser&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postPlayDbBrowser/h2-browser.png&#34; alt=&#34;Fenêtre de connection h2-browser&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conférence on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/conf%C3%A9rence/</link>
+    <link>http://test.code-troopers.com/tags/conf%C3%A9rence/</link>
     <description>Recent content in Conférence on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 15 Apr 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/conf%C3%A9rence/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/conf%C3%A9rence/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Devoxx 2015 : c&#39;était bien, mais...</title>
-      <link>https://blog-7460a.firebaseapp.com/2015/04/15/devoxxfr-2015</link>
+      <link>http://test.code-troopers.com/2015/04/15/devoxxfr-2015</link>
       <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2015/04/15/devoxxfr-2015</guid>
+      <guid>http://test.code-troopers.com/2015/04/15/devoxxfr-2015</guid>
       <description>&lt;p&gt;Cette année nous étions tous les Troopers à nous rendre à Paris pour LA conférence à ne pas rater.&lt;/p&gt;
 
 &lt;p&gt;Pour ceux qui n&amp;rsquo;auraient pas vu l&amp;rsquo;info sur &lt;a href=&#34;https://twitter.com/search?q=%23DevoxxFR&amp;amp;src=tyah&#34;&gt;Twitter&lt;/a&gt; ou ailleurs, pour la première fois nous étions au Palais des Congrès, et ça on peut dire que c&amp;rsquo;est la classe.&lt;/p&gt;
@@ -38,11 +38,11 @@ je ne vois pas comment la société en face peut se dire écolo (ou tenter de le
 Il ne faut pas lire l&amp;rsquo;avenir dans les foies de mouton¹ pour se douter qu&amp;rsquo;au moins deux tiers vont finir à la poubelle.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postDevoxx2015/devoxx2015_1.jpg&#34; data-lightbox=&#34;group-2&#34; title=&#34;Les sac pour les sandwichs...&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postDevoxx2015/devoxx2015_1.jpg&#34; alt=&#34;Les sac pour les sandwichs...&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postDevoxx2015/devoxx2015_1.jpg&#34; data-lightbox=&#34;group-2&#34; title=&#34;Les sac pour les sandwichs...&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postDevoxx2015/devoxx2015_1.jpg&#34; alt=&#34;Les sac pour les sandwichs...&#34;/&gt;
   &lt;/a&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postDevoxx2015/devoxx2015_2.jpg&#34; data-lightbox=&#34;group-2&#34; title=&#34;... qui finissent à la poubelle&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postDevoxx2015/devoxx2015_2.jpg&#34; alt=&#34;... qui finissent à la poubelle&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postDevoxx2015/devoxx2015_2.jpg&#34; data-lightbox=&#34;group-2&#34; title=&#34;... qui finissent à la poubelle&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postDevoxx2015/devoxx2015_2.jpg&#34; alt=&#34;... qui finissent à la poubelle&#34;/&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -75,10 +75,10 @@ Et parce que pouvoir assister à une conf de &lt;a href=&#34;https://twitter.com
     
     <item>
       <title>Soirée Agilité à Tours</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/09/23/agile_paloaltech_tours</link>
+      <link>http://test.code-troopers.com/2014/09/23/agile_paloaltech_tours</link>
       <pubDate>Tue, 23 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/09/23/agile_paloaltech_tours</guid>
+      <guid>http://test.code-troopers.com/2014/09/23/agile_paloaltech_tours</guid>
       <description>
 
 &lt;h2 id=&#34;ça-bouge-à-la-cantine-du-numérique:62bd16bcc8405396f585accdb1329d46&#34;&gt;Ça bouge à la cantine du numérique&lt;/h2&gt;

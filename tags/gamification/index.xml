@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gamification on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/gamification/</link>
+    <link>http://test.code-troopers.com/tags/gamification/</link>
     <description>Recent content in Gamification on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 20 May 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/gamification/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/gamification/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Devoxx 2016 : Huntly ou rien !</title>
-      <link>https://blog-7460a.firebaseapp.com/2016/05/20/devoxx-2016-huntly</link>
+      <link>http://test.code-troopers.com/2016/05/20/devoxx-2016-huntly</link>
       <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2016/05/20/devoxx-2016-huntly</guid>
+      <guid>http://test.code-troopers.com/2016/05/20/devoxx-2016-huntly</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;An english version of this blogpost is published on Michaël Bitard&amp;#8217;s blog at &lt;a href=&#34;https://agileek.github.io/java/2016/05/19/devoxx_2016_huntly/&#34;&gt;agileek.github.io&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -33,14 +33,14 @@ il y a eu de publié sur les stores l’application &lt;a href=&#34;https://play
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app1.png&#34; data-lightbox=&#34;2&#34; title=&#34;Devoxx Huntly screenshot&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app1_min.png&#34; alt=&#34;Devoxx Huntly screenshot&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app1.png&#34; data-lightbox=&#34;2&#34; title=&#34;Devoxx Huntly screenshot&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app1_min.png&#34; alt=&#34;Devoxx Huntly screenshot&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app2.png&#34; data-lightbox=&#34;2&#34; title=&#34;Devoxx Huntly screenshot - Liste des quêtes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app2_min.png&#34; alt=&#34;Devoxx Huntly screenshot - Liste de quêtes&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app2.png&#34; data-lightbox=&#34;2&#34; title=&#34;Devoxx Huntly screenshot - Liste des quêtes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app2_min.png&#34; alt=&#34;Devoxx Huntly screenshot - Liste de quêtes&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app3.png&#34; data-lightbox=&#34;2&#34; title=&#34;Devoxx Huntly screenshot - Quête terminée&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app3_min.png&#34; alt=&#34;Devoxx Huntly screenshot - Quête terminée&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app3.png&#34; data-lightbox=&#34;2&#34; title=&#34;Devoxx Huntly screenshot - Quête terminée&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app3_min.png&#34; alt=&#34;Devoxx Huntly screenshot - Quête terminée&#34;/&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -72,23 +72,23 @@ et sur ce coup-là on peut dire que la team de scalac était au taquet car il y 
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand1.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stant Aldebaran&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand1_min.png&#34; alt=&#34;QRCode sur le stant Aldebaran&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand1.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stant Aldebaran&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand1_min.png&#34; alt=&#34;QRCode sur le stant Aldebaran&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand2.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stand SII&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand2_min.png&#34; alt=&#34;QRCode sur le stand SII&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand2.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stand SII&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand2_min.png&#34; alt=&#34;QRCode sur le stand SII&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand3.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stand Stackoverflow&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand3_min.png&#34; alt=&#34;QRCode sur le stand Stackoverflow&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand3.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stand Stackoverflow&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand3_min.png&#34; alt=&#34;QRCode sur le stand Stackoverflow&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand4.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stand Amazon&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand4_min.png&#34; alt=&#34;QRCode sur le stand Amazon&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand4.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stand Amazon&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand4_min.png&#34; alt=&#34;QRCode sur le stand Amazon&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand_huntly.png&#34; data-lightbox=&#34;0&#34; title=&#34;Le stand de Devoxx Huntly&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand_huntly_min.png&#34; alt=&#34;Le stand de Devoxx Huntly&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand_huntly.png&#34; data-lightbox=&#34;0&#34; title=&#34;Le stand de Devoxx Huntly&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand_huntly_min.png&#34; alt=&#34;Le stand de Devoxx Huntly&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_porte.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur une porte de salle&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_porte_min.png&#34; alt=&#34;QRCode sur une porte de salle&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_porte.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur une porte de salle&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_porte_min.png&#34; alt=&#34;QRCode sur une porte de salle&#34;/&gt;
 &lt;/a&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -107,8 +107,8 @@ Il s’est lui-même dénoncé au stand, ça lui a valu un direct de Stefan, en 
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_stephan_pushing_fcamblor.png&#34; data-lightbox=&#34;4&#34; title=&#34;Stephan maltraitant Frédéric&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_stephan_pushing_fcamblor.png&#34; alt=&#34;Stephan maltraitant Frédéric&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_stephan_pushing_fcamblor.png&#34; data-lightbox=&#34;4&#34; title=&#34;Stephan maltraitant Frédéric&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_stephan_pushing_fcamblor.png&#34; alt=&#34;Stephan maltraitant Frédéric&#34;/&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -159,8 +159,8 @@ Et Michaël a donc bien gagné sa place pour DevoxxFR 2017. Quant à moi, ce n�
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_classment_final.png&#34; data-lightbox=&#34;1&#34; title=&#34;Classement final&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_classment_final_min.png&#34; alt=&#34;Classement final&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_classment_final.png&#34; data-lightbox=&#34;1&#34; title=&#34;Classement final&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_classment_final_min.png&#34; alt=&#34;Classement final&#34;/&gt;
 &lt;/a&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;/div&gt;

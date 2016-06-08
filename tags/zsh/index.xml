@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zsh on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/zsh/</link>
+    <link>http://test.code-troopers.com/tags/zsh/</link>
     <description>Recent content in Zsh on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 17 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/zsh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/zsh/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>oh-my-zsh : l&#39;outil indispensable pour avoir un zsh bien configuré.</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/09/17/ohmyzsh</link>
+      <link>http://test.code-troopers.com/2014/09/17/ohmyzsh</link>
       <pubDate>Wed, 17 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/09/17/ohmyzsh</guid>
+      <guid>http://test.code-troopers.com/2014/09/17/ohmyzsh</guid>
       <description>
 
 &lt;h2 id=&#34;introduction:26f51ad9c57c25287250bbb029ab80fa&#34;&gt;Introduction&lt;/h2&gt;
@@ -54,8 +54,8 @@ J&amp;rsquo;utilisais &lt;a href=&#34;https://github.com/nojhan/liquidprompt&#34
 Voici ce que cela donne avec mon thème (adapté du thème sunrise), que vous pouvez trouver  sur &lt;a href=&#34;https://raw.githubusercontent.com/mattboll/zshrc/master/mattboll.zsh-theme&#34;&gt;GitHub&lt;/a&gt; :&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-&lt;a style=&#34;display: inline&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/postOhMyZsh/oh-my-zsh-theme.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;Thème oh-my-zsh&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postOhMyZsh/oh-my-zsh-theme.png&#34; alt=&#34;Thème oh-my-zsh&#34;/&gt;
+&lt;a style=&#34;display: inline&#34; href=&#34;http://test.code-troopers.com/images/postOhMyZsh/oh-my-zsh-theme.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;Thème oh-my-zsh&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postOhMyZsh/oh-my-zsh-theme.png&#34; alt=&#34;Thème oh-my-zsh&#34;/&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 
@@ -77,10 +77,10 @@ Vous trouverez la liste des plugins dans &lt;code&gt;~/.oh-my-zsh/plugins&lt;/co
     
     <item>
       <title>k is the new l, yo</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/05/14/kisthenewl</link>
+      <link>http://test.code-troopers.com/2014/05/14/kisthenewl</link>
       <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/05/14/kisthenewl</guid>
+      <guid>http://test.code-troopers.com/2014/05/14/kisthenewl</guid>
       <description>&lt;p&gt;&lt;code&gt;ls&lt;/code&gt; est une des commandes shell les plus utilisées, pourtant depuis les années 70 elle a très peu changé. Bien sûr, il y a de nombreuses options, citons &lt;code&gt;ls -a&lt;/code&gt; pour afficher les fichiers cachés, &lt;code&gt;ls -l&lt;/code&gt; pour afficher plus d&amp;rsquo;informations, &lt;code&gt;ls --color&lt;/code&gt; pour afficher deux couleurs, une pour les fichiers et une pour les répertoires, ou encore &lt;code&gt;ls -rtl&lt;/code&gt; pour trier le contenu par date et afficher le plus récent en dernier.&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;ls&lt;/code&gt; est donc une commande utile et pratique mais elle n&amp;rsquo;est pas folichonne. D&amp;rsquo;où la naissance de &lt;code&gt;k&lt;/code&gt; qui a pour but de remplacer &lt;code&gt;ls&lt;/code&gt; avec quelques killer features. Il ne s&amp;rsquo;agit pas d&amp;rsquo;une surcouche de &lt;code&gt;ls&lt;/code&gt; mais d&amp;rsquo;une commande complète, s&amp;rsquo;appuyant directement sur &lt;code&gt;stat&lt;/code&gt; par exemple. À ce jour, les nouvelles fonctionnalités sont les suivantes :&lt;/p&gt;
@@ -95,11 +95,11 @@ Vous trouverez la liste des plugins dans &lt;code&gt;~/.oh-my-zsh/plugins&lt;/co
 &lt;p&gt;Voici un comparatif des deux rendus, version &lt;code&gt;ls&lt;/code&gt; et version &lt;code&gt;k&lt;/code&gt; :&lt;/p&gt;
 
 &lt;p&gt;&lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a style=&#34;display: inline&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/postKisTheNewL/lsalcolor.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;version ls -al --color&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postKisTheNewL/lsalcolor_min.png&#34; alt=&#34;version k&#34;/&gt;
+&lt;a style=&#34;display: inline&#34; href=&#34;http://test.code-troopers.com/images/postKisTheNewL/lsalcolor.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;version ls -al --color&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postKisTheNewL/lsalcolor_min.png&#34; alt=&#34;version k&#34;/&gt;
 &lt;/a&gt;
-&lt;a style=&#34;display: inline&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/postKisTheNewL/k.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;version k&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postKisTheNewL/k_min.png&#34; alt=&#34;version k&#34;/&gt;
+&lt;a style=&#34;display: inline&#34; href=&#34;http://test.code-troopers.com/images/postKisTheNewL/k.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;version k&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postKisTheNewL/k_min.png&#34; alt=&#34;version k&#34;/&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;br/&gt;&lt;/p&gt;

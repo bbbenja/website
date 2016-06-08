@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vimrc on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/vimrc/</link>
+    <link>http://test.code-troopers.com/tags/vimrc/</link>
     <description>Recent content in Vimrc on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 15 May 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/vimrc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/vimrc/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>vim : 10 astuces de configuration pour vos dotfiles</title>
-      <link>https://blog-7460a.firebaseapp.com/2015/05/15/dotfiles-vim</link>
+      <link>http://test.code-troopers.com/2015/05/15/dotfiles-vim</link>
       <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2015/05/15/dotfiles-vim</guid>
+      <guid>http://test.code-troopers.com/2015/05/15/dotfiles-vim</guid>
       <description>
 
 &lt;p&gt;Cet article sera le premier d&amp;rsquo;une série consacrée aux &lt;em&gt;dotfiles&lt;/em&gt;. Alors les &lt;em&gt;dotfiles&lt;/em&gt;, qu&amp;rsquo;est-ce que c&amp;rsquo;est Obi-Wan ? Les &lt;em&gt;dotfiles&lt;/em&gt;, ce sont tous les fichiers texte de configuration que l&amp;rsquo;on peut retrouver dans son répertoire utilisateur pour sauvegarder ses préférences. De nombreux logiciels utilisent cette méthode. On peut citer gnome, IntelliJ, Maven,  ssh, git, bash et tant d&amp;rsquo;autres. On les appelle &lt;em&gt;dotfiles&lt;/em&gt; −que l&amp;rsquo;on peut traduire par fichiers point− parce qu&amp;rsquo;ils ont un nom qui commence par un point, ce qui correspond aux fichiers cachés sous linux.&lt;/p&gt;
@@ -34,7 +34,7 @@ endif
 &lt;p&gt;De base sous vim on édite son .vimrc, on quitte et on réouvre un fichier pour voir la modification. Grâce à ces lignes, il suffira de sauvegarder pour voir ses modifications actives dans toutes les instances ouvertes de vim.&lt;/p&gt;
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
-&lt;video style=&#34;width: 90%; max-width: 600px;&#34; controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-saveactif.webm&#34;&gt;&lt;/video&gt;
+&lt;video style=&#34;width: 90%; max-width: 600px;&#34; controls src=&#34;http://test.code-troopers.com/videos/dotfiles-saveactif.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&#34;en-parlant-de-sauvegarde:45eb03a180390a8741dc435049213d05&#34;&gt;En parlant de sauvegarde&lt;/h1&gt;
@@ -48,7 +48,7 @@ inoremap &amp;lt;C-Z&amp;gt; &amp;lt;C-O&amp;gt;:update&amp;lt;CR&amp;gt;
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-ctrlz.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-ctrlz.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&#34;et-pourquoi-pas-ctrl-s:45eb03a180390a8741dc435049213d05&#34;&gt;Et pourquoi pas ctrl-s&lt;/h1&gt;
@@ -64,7 +64,7 @@ Selon la disposition de votre clavier, vous pouvez remplacer &lt;code&gt;c&lt;/c
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-ctrlctsr.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-ctrlctsr.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&#34;un-peu-de-couleurs:45eb03a180390a8741dc435049213d05&#34;&gt;un peu de couleurs&lt;/h1&gt;
@@ -76,7 +76,7 @@ Selon la disposition de votre clavier, vous pouvez remplacer &lt;code&gt;c&lt;/c
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-syntax.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-syntax.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&#34;set-nu:45eb03a180390a8741dc435049213d05&#34;&gt;set nu&lt;/h1&gt;
@@ -88,7 +88,7 @@ Selon la disposition de votre clavier, vous pouvez remplacer &lt;code&gt;c&lt;/c
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-setnu.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-setnu.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&#34;éviter-la-touche-échap:45eb03a180390a8741dc435049213d05&#34;&gt;Éviter la touche échap&lt;/h1&gt;
@@ -101,7 +101,7 @@ Comme je suis en bépo (au lieu de azerty) et que je n&amp;rsquo;écris presque 
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-exitee.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-exitee.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&#34;pathogen-https-github-com-tpope-vim-pathogen:45eb03a180390a8741dc435049213d05&#34;&gt;&lt;a href=&#34;https://github.com/tpope/vim-pathogen&#34;&gt;pathogen&lt;/a&gt;&lt;/h1&gt;
@@ -127,7 +127,7 @@ git clone https://github.com/flazz/vim-colorschemes.git
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-colormatrix.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-colormatrix.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;nerdtree:45eb03a180390a8741dc435049213d05&#34;&gt;nerdtree&lt;/h2&gt;
@@ -141,7 +141,7 @@ Dorénavant, il vous suffira de faire ctrl-n pour avoir votre répertoire de tra
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-nerttree.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-nerttree.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;nerdcommenter:45eb03a180390a8741dc435049213d05&#34;&gt;nerdcommenter&lt;/h2&gt;
@@ -156,7 +156,7 @@ Si vous vous demandez ce qu&amp;rsquo;est la touche &lt;code&gt;&amp;lt;Leader&a
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-comment.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-comment.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&#34;aller-plus-loin:45eb03a180390a8741dc435049213d05&#34;&gt;Aller plus loin&lt;/h1&gt;

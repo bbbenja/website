@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/android/</link>
+    <link>http://test.code-troopers.com/tags/android/</link>
     <description>Recent content in Android on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 30 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Android : Feature Toggle avec Google Tag Manager</title>
-      <link>https://blog-7460a.firebaseapp.com/2016/03/30/android_google_tag_manager_feature_toggle</link>
+      <link>http://test.code-troopers.com/2016/03/30/android_google_tag_manager_feature_toggle</link>
       <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2016/03/30/android_google_tag_manager_feature_toggle</guid>
+      <guid>http://test.code-troopers.com/2016/03/30/android_google_tag_manager_feature_toggle</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Le concept de &lt;code&gt;feature toggle&lt;/code&gt; est bien pratique en tant que développeur si l&amp;#8217;on souhaite faire évoluer sa base de code source à un rythme différent de celui des livraisons et des fonctionnalités.
 C&amp;#8217;est souvent le cas lorsqu&amp;#8217;il y a autour du produit une équipe marketing / communication qui s&amp;#8217;occupe d&amp;#8217;annoncer telle ou telle nouvelle fonctionnalité.&lt;/p&gt;
@@ -75,26 +75,26 @@ C&amp;#8217;est via cette IHM et avec les informations que l&amp;#8217;on va y a
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation1.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création du container&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation1_min.png&#34; alt=&#34;Création du container&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation1.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création du container&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation1_min.png&#34; alt=&#34;Création du container&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation2.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création du container - Nom et type&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation2_min.png&#34; alt=&#34;Création du container - Nom et type&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation2.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création du container - Nom et type&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation2_min.png&#34; alt=&#34;Création du container - Nom et type&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_gtmIdGenerated.png&#34; data-lightbox=&#34;0&#34; title=&#34;GTM id généré&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_gtmIdGenerated_min.png&#34; alt=&#34;GTM id généré&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_gtmIdGenerated.png&#34; data-lightbox=&#34;0&#34; title=&#34;GTM id généré&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_gtmIdGenerated_min.png&#34; alt=&#34;GTM id généré&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_screenVariables.png&#34; data-lightbox=&#34;0&#34; title=&#34;Écran &#39;Variables&#39;&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_screenVariables_min.png&#34; alt=&#34;Écran &#39;Variables&#39;&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_screenVariables.png&#34; data-lightbox=&#34;0&#34; title=&#34;Écran &#39;Variables&#39;&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_screenVariables_min.png&#34; alt=&#34;Écran &#39;Variables&#39;&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_createVariable.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création d&amp;#8217;une nouvelle variable&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_createVariable_min.png&#34; alt=&#34;Création d&amp;#8217;une nouvelle variable&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_createVariable.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création d&amp;#8217;une nouvelle variable&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_createVariable_min.png&#34; alt=&#34;Création d&amp;#8217;une nouvelle variable&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_publishContainer.png&#34; data-lightbox=&#34;0&#34; title=&#34;Publication du container&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_publishContainer_min.png&#34; alt=&#34;Publication du container&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_publishContainer.png&#34; data-lightbox=&#34;0&#34; title=&#34;Publication du container&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_publishContainer_min.png&#34; alt=&#34;Publication du container&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_downloadContainer.png&#34; data-lightbox=&#34;0&#34; title=&#34;Téléchargement du container&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_downloadContainer_min.png&#34; alt=&#34;Téléchargement du container&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_downloadContainer.png&#34; data-lightbox=&#34;0&#34; title=&#34;Téléchargement du container&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_downloadContainer_min.png&#34; alt=&#34;Téléchargement du container&#34;/&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -251,10 +251,10 @@ Cours Udacity d&amp;#8217;explication : &lt;a href=&#34;https://www.udacity.com/
     
     <item>
       <title>Android : Publier son apk en ligne de commande</title>
-      <link>https://blog-7460a.firebaseapp.com/2015/11/04/android_publier_apk_avec_gradle</link>
+      <link>http://test.code-troopers.com/2015/11/04/android_publier_apk_avec_gradle</link>
       <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2015/11/04/android_publier_apk_avec_gradle</guid>
+      <guid>http://test.code-troopers.com/2015/11/04/android_publier_apk_avec_gradle</guid>
       <description>
 
 &lt;p&gt;Lorsque l’on fait du développement Android, on a régulièrement besoin de publier des nouvelles versions de l&amp;rsquo;application sur le Play Store.
@@ -280,11 +280,11 @@ Si ce n&amp;rsquo;est pas le cas, vous pouvez vous reposer sur la &lt;a href=&#3
 &lt;p&gt;Pour cela, rendez-vous dans un premier temps dans l&amp;rsquo;interface développeur du Play Store, dans la section &lt;code&gt;Settings &amp;gt; API acces&lt;/code&gt; et cliquez sur &lt;code&gt;Create Service Account&lt;/code&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen1.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 1&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen1.png&#34; alt=&#34;Configuration de l&#39;Accout service - 1&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen1.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 1&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen1.png&#34; alt=&#34;Configuration de l&#39;Accout service - 1&#34;/&gt;
   &lt;/a&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen2.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 2&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen2.png&#34; alt=&#34;Configuration de l&#39;Accout service - 2&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen2.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 2&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen2.png&#34; alt=&#34;Configuration de l&#39;Accout service - 2&#34;/&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -295,22 +295,22 @@ Si ce n&amp;rsquo;est pas le cas, vous pouvez vous reposer sur la &lt;a href=&#3
 &lt;p&gt;On peut ensuite voir qu&amp;rsquo;un nouveau &lt;code&gt;Service account&lt;/code&gt; est apparu dans la liste des Credentials.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen3.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 3&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen3.png&#34; alt=&#34;Configuration de l&#39;Accout service - 3&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen3.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 3&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen3.png&#34; alt=&#34;Configuration de l&#39;Accout service - 3&#34;/&gt;
   &lt;/a&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen4.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 4&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen4.png&#34; alt=&#34;Configuration de l&#39;Accout service - 4&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen4.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 4&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen4.png&#34; alt=&#34;Configuration de l&#39;Accout service - 4&#34;/&gt;
   &lt;/a&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen5.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 5&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen5.png&#34; alt=&#34;Configuration de l&#39;Accout service - 5&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen5.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 5&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen5.png&#34; alt=&#34;Configuration de l&#39;Accout service - 5&#34;/&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;De retour sur l&amp;rsquo;interface d&amp;rsquo;admin du Play Store, on constate que le &lt;code&gt;Service Account&lt;/code&gt; est bien créé et disponible ici.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen6.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 6&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen6.png&#34; alt=&#34;Configuration de l&#39;Accout service - 6&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen6.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 6&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen6.png&#34; alt=&#34;Configuration de l&#39;Accout service - 6&#34;/&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -330,11 +330,11 @@ Si ce n&amp;rsquo;est pas le cas, vous pouvez vous reposer sur la &lt;a href=&#3
 &lt;p&gt;Ces choix pourront être modifés ultérieurement dans l&amp;rsquo;écran récapitulatif (mais ce n&amp;rsquo;est pas recommandé).&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen7.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 7&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen7.png&#34; alt=&#34;Configuration de l&#39;Accout service - 7&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen7.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 7&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen7.png&#34; alt=&#34;Configuration de l&#39;Accout service - 7&#34;/&gt;
   &lt;/a&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen8.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 8&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen8.png&#34; alt=&#34;Configuration de l&#39;Accout service - 8&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen8.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 8&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen8.png&#34; alt=&#34;Configuration de l&#39;Accout service - 8&#34;/&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -378,11 +378,11 @@ apply plugin: &#39;com.github.triplet.play&#39;
 &lt;p&gt;On y voit toutes les tâches gradle qu&amp;rsquo;on peut appeler :&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_before.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Liste des tasks gradle disponibles sans le plugin&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_before.png&#34; alt=&#34;Liste des tasks gradle disponibles sans le plugin&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_before.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Liste des tasks gradle disponibles sans le plugin&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_before.png&#34; alt=&#34;Liste des tasks gradle disponibles sans le plugin&#34;/&gt;
   &lt;/a&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_after.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Liste des tasks gradle disponibles avec le plugin&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_after.png&#34; alt=&#34;Liste des tasks gradle disponibles avec le plugin&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_after.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Liste des tasks gradle disponibles avec le plugin&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_after.png&#34; alt=&#34;Liste des tasks gradle disponibles avec le plugin&#34;/&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -408,8 +408,8 @@ Ce qui peut notamment se faire comme ça :&lt;/p&gt;
 &lt;p&gt;Maintenant, on peut voir la présence de la tâche qui nous intéresse : &lt;code&gt;publishApkRelease&lt;/code&gt;&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_complete.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Liste des tasks gradle disponibles avec upload apk&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_complete.png&#34; alt=&#34;Liste des tasks gradle disponibles avec upload apk&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_complete.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Liste des tasks gradle disponibles avec upload apk&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_complete.png&#34; alt=&#34;Liste des tasks gradle disponibles avec upload apk&#34;/&gt;
   &lt;/a&gt;
 &lt;/div&gt;        
 
@@ -425,8 +425,8 @@ Ce qui peut notamment se faire comme ça :&lt;/p&gt;
 &lt;p&gt;Si il y a un problème lors de l&amp;rsquo;updload, il est affiché dans la console, par exemple si le &lt;strong&gt;version code&lt;/strong&gt; est déjà utilisé&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_upload_ko.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Exemple d&#39;upload d&#39;apk en erreur&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_upload_ko.png&#34; alt=&#34;Exemple d&#39;upload d&#39;apk en erreur&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_upload_ko.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Exemple d&#39;upload d&#39;apk en erreur&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_upload_ko.png&#34; alt=&#34;Exemple d&#39;upload d&#39;apk en erreur&#34;/&gt;
   &lt;/a&gt;
 &lt;/div&gt;    
 
@@ -445,10 +445,10 @@ Pour savoir comment configurer tout cela, je vous invite à consulter la page gi
     
     <item>
       <title>Android M - Nouvelle gestion de permission</title>
-      <link>https://blog-7460a.firebaseapp.com/2015/09/22/android_m_permissions</link>
+      <link>http://test.code-troopers.com/2015/09/22/android_m_permissions</link>
       <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2015/09/22/android_m_permissions</guid>
+      <guid>http://test.code-troopers.com/2015/09/22/android_m_permissions</guid>
       <description>
 
 &lt;h1 id=&#34;nouvelle-approche:84bad094dd5fba286487f6a75a705f1d&#34;&gt;Nouvelle approche&lt;/h1&gt;
@@ -478,11 +478,11 @@ Terminé la popup qui demande les 10 autorisations au moment du téléchargement
  Il faudra donc adapter la gestion de ces permissions à cette éventualité.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p6.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écran App Info&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p6.png&#34; alt=&#34;Écran App Info&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p6.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écran App Info&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p6.png&#34; alt=&#34;Écran App Info&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p5.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écran App Info : détail des permissions&#34;  class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p5.png&#34; alt=&#34;Écran App Info : détail des permissions&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p5.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écran App Info : détail des permissions&#34;  class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p5.png&#34; alt=&#34;Écran App Info : détail des permissions&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -545,8 +545,8 @@ dependencies {
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p1.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog de demande d&#39;une permission&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p1.png&#34; alt=&#34;Dialog de demande d&#39;une permission&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p1.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog de demande d&#39;une permission&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p1.png&#34; alt=&#34;Dialog de demande d&#39;une permission&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -578,11 +578,11 @@ Pour cela il suffit de passer plusieurs permissions dans le tableau passé en pa
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p2.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog de demande de plusieurs permissions 1/2&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p2.png&#34; alt=&#34;Dialog de demande de plusieurs permissions 1/2&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p2.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog de demande de plusieurs permissions 1/2&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p2.png&#34; alt=&#34;Dialog de demande de plusieurs permissions 1/2&#34;/&gt;
     &lt;/a&gt;
-&lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p3.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog de demande de plusieurs permissions 2/2&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p3.png&#34; alt=&#34;Dialog de demande de plusieurs permissions 2/2&#34;/&gt;
+&lt;a href=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p3.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog de demande de plusieurs permissions 2/2&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p3.png&#34; alt=&#34;Dialog de demande de plusieurs permissions 2/2&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -613,8 +613,8 @@ ActivityCompat.requestPermissions(MainActivity.this,
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p4.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog d&#39;explication sur une demande de permissions&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p4.png&#34; alt=&#34;Dialog d&#39;explication sur une demande de permissions&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p4.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog d&#39;explication sur une demande de permissions&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p4.png&#34; alt=&#34;Dialog d&#39;explication sur une demande de permissions&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -636,15 +636,15 @@ ActivityCompat.requestPermissions(MainActivity.this,
     
     <item>
       <title>Android Support Design Library</title>
-      <link>https://blog-7460a.firebaseapp.com/2015/06/06/androiddesignlibrary</link>
+      <link>http://test.code-troopers.com/2015/06/06/androiddesignlibrary</link>
       <pubDate>Sat, 06 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2015/06/06/androiddesignlibrary</guid>
+      <guid>http://test.code-troopers.com/2015/06/06/androiddesignlibrary</guid>
       <description>&lt;p&gt;Avez-vous déjà essayé de transformer vos applications Android pour les rendre conformes aux &lt;a href=&#34;http://www.google.com/design/spec/material-design/introduction.html&#34;&gt;guidelines Material&lt;/a&gt;, si oui, vous avez dû comme nous, vous retrouver à importer plein de librairies tierces pour implémenter par exemple le &lt;code&gt;FAB button&lt;/code&gt;, ou même personnaliser le code pour rendre le &lt;code&gt;NavigationDrawer&lt;/code&gt; conforme (comme ce qui a pu être fait sur le squelette d&amp;rsquo;un &lt;a href=&#34;http://code-troopers.com/2014/11/26/SqueletteAndroid5.html&#34;&gt;précédent article&lt;/a&gt;. Et bien tout ceci est fini (enfin en partie), grâce à la nouvelle librairie Android de Google &lt;a href=&#34;http://developer.android.com/tools/support-library/features.html#design&#34;&gt;Design Support&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center&#34;&gt;
 &lt;video width=&#34;270&#34; height=&#34;444&#34; controls&gt;
-  &lt;source src=&#34;https://blog-7460a.firebaseapp.com/videos/designlibrary-cheesesquare.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;http://test.code-troopers.com/videos/designlibrary-cheesesquare.mp4&#34; type=&#34;video/mp4&#34;&gt;
 Your browser does not support the video tag.
 &lt;/video&gt;
 &lt;/div&gt;
@@ -678,10 +678,10 @@ Your browser does not support the video tag.
     
     <item>
       <title>Navig&#39;Tours est disponible</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/12/05/navigtours_application_android_disponible</link>
+      <link>http://test.code-troopers.com/2014/12/05/navigtours_application_android_disponible</link>
       <pubDate>Fri, 05 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/12/05/navigtours_application_android_disponible</guid>
+      <guid>http://test.code-troopers.com/2014/12/05/navigtours_application_android_disponible</guid>
       <description>
 
 &lt;h2 id=&#34;ça-y-est:f88e1eb9fda1b808dc5d8497e09c543c&#34;&gt;Ça y est !&lt;/h2&gt;
@@ -690,7 +690,7 @@ Your browser does not support the video tag.
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
     &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.codetroopers.transport.tours&#34;&gt;
-        &lt;img class=&#34;medium&#34; alt=&#34;QRcode application Navig&#39;Tours&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postNavigTours2/qrCode_playstore_navigtours.png&#34; /&gt;
+        &lt;img class=&#34;medium&#34; alt=&#34;QRcode application Navig&#39;Tours&#34; src=&#34;http://test.code-troopers.com/images/postNavigTours2/qrCode_playstore_navigtours.png&#34; /&gt;
     &lt;/a&gt;
     &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.codetroopers.transport.tours&#34;&gt;
         &lt;img alt=&#34;Get it on Google Play&#34; src=&#34;https://developer.android.com/images/brand/fr_generic_rgb_wo_60.png&#34; /&gt;
@@ -698,23 +698,23 @@ Your browser does not support the video tag.
 &lt;/div&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postNavigTours2/preview_search.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écrans recherche d&#39;itinéraire&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postNavigTours2/preview_search.png&#34; alt=&#34;Écrans recherche d&#39;itinéraire&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postNavigTours2/preview_search.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écrans recherche d&#39;itinéraire&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postNavigTours2/preview_search.png&#34; alt=&#34;Écrans recherche d&#39;itinéraire&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postNavigTours2/preview_map.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écran carte des arrêts&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postNavigTours2/preview_map.png&#34; alt=&#34;Écran carte des arrêts&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postNavigTours2/preview_map.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écran carte des arrêts&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postNavigTours2/preview_map.png&#34; alt=&#34;Écran carte des arrêts&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postNavigTours2/preview_favorite.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écrans arrêts favoris&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postNavigTours2/preview_favorite.png&#34; alt=&#34;Écrans arrêts favoris&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postNavigTours2/preview_favorite.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écrans arrêts favoris&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postNavigTours2/preview_favorite.png&#34; alt=&#34;Écrans arrêts favoris&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postNavigTours2/preview_stop_detail.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écran arrêt&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postNavigTours2/preview_stop_detail.png&#34; alt=&#34;Écran arrêt&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postNavigTours2/preview_stop_detail.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écran arrêt&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postNavigTours2/preview_stop_detail.png&#34; alt=&#34;Écran arrêt&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postNavigTours2/preview_notifications.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écrans notifications&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postNavigTours2/preview_notifications.png&#34; alt=&#34;Écrans notifications&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postNavigTours2/preview_notifications.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écrans notifications&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postNavigTours2/preview_notifications.png&#34; alt=&#34;Écrans notifications&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postNavigTours2/preview_settings.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écran paramètre&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postNavigTours2/preview_settings.png&#34; alt=&#34;Écran paramètre&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postNavigTours2/preview_settings.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écran paramètre&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postNavigTours2/preview_settings.png&#34; alt=&#34;Écran paramètre&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -736,10 +736,10 @@ Mais nous n&amp;rsquo;avons pas un temps illimité à consacrer à cette applica
     
     <item>
       <title>Squelette Android 5.0</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/11/26/squeletteandroid5</link>
+      <link>http://test.code-troopers.com/2014/11/26/squeletteandroid5</link>
       <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/11/26/squeletteandroid5</guid>
+      <guid>http://test.code-troopers.com/2014/11/26/squeletteandroid5</guid>
       <description>
 
 &lt;h2 id=&#34;pourquoi:d73e07438734fa8a3e6c6162f44beb59&#34;&gt;Pourquoi ?&lt;/h2&gt;
@@ -762,11 +762,11 @@ les nouvelles libraires de compatibilités, les templates que propose &lt;strong
 &lt;p&gt;Afin de faciliter la vie des troopers, j&amp;rsquo;ai décidé de créer un squelette d&amp;rsquo;application &lt;strong&gt;Android&lt;/strong&gt; contenant nos librairies favorites et le minimum visuel.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-&lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroid5/screen1.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Page d&#39;accueil du squelette&#34; class=&#34;inlineBoxes&#34;&gt;
-&lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroid5/screen1.png&#34; alt=&#34;Page d&#39;accueil du squelette&#34;/&gt;
+&lt;a href=&#34;http://test.code-troopers.com/images/postAndroid5/screen1.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Page d&#39;accueil du squelette&#34; class=&#34;inlineBoxes&#34;&gt;
+&lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroid5/screen1.png&#34; alt=&#34;Page d&#39;accueil du squelette&#34;/&gt;
 &lt;/a&gt;
-&lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroid5/screen2.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Navigation drawer&#34; class=&#34;inlineBoxes&#34;&gt;
-&lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroid5/screen2.png&#34; alt=&#34;Navigation drawer&#34;/&gt;
+&lt;a href=&#34;http://test.code-troopers.com/images/postAndroid5/screen2.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Navigation drawer&#34; class=&#34;inlineBoxes&#34;&gt;
+&lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroid5/screen2.png&#34; alt=&#34;Navigation drawer&#34;/&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 
@@ -800,10 +800,10 @@ les nouvelles libraires de compatibilités, les templates que propose &lt;strong
     
     <item>
       <title>Appli Navig&#39;Tours : ouverture aux bêta-testeurs</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/10/22/filbleu_tours_application_android</link>
+      <link>http://test.code-troopers.com/2014/10/22/filbleu_tours_application_android</link>
       <pubDate>Wed, 22 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/10/22/filbleu_tours_application_android</guid>
+      <guid>http://test.code-troopers.com/2014/10/22/filbleu_tours_application_android</guid>
       <description>&lt;p&gt;
 Depuis déjà quelques temps, l&#39;équipe travaille sur une application &lt;code&gt;Android&lt;/code&gt; pour consulter les horaires des bus et tram du réseau &lt;b&gt;Fil Bleu&lt;/b&gt;.
 &lt;br/&gt;
@@ -821,8 +821,8 @@ Et comme hier soir a eu lieu la première soirée bêta-test organisée à la &l
         Donc puisque le besoin d&#39;une telle application est présent et que nous aimons bien relever les défis techniques, nous avons eu envie de nous lancer dans ce développement.
     &lt;/p&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/search.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Navig&#39;Tours&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/navig_tours.gif&#34; alt=&#34;Navig&#39;Tours&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postFilBleu/search.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Navig&#39;Tours&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postFilBleu/navig_tours.gif&#34; alt=&#34;Navig&#39;Tours&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 &lt;h3&gt;Pourquoi des bêta-testeurs ?&lt;/h3&gt;
@@ -878,29 +878,29 @@ Et comme hier soir a eu lieu la première soirée bêta-test organisée à la &l
     Pour le moment l&#39;interface ressemble à ça :
     &lt;/p&gt;
     &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-        &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/search.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Écran de recherche d&#39;itinéraire&#34; class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/search.png&#34; alt=&#34;Splash screen&#34;/&gt;
+        &lt;a href=&#34;http://test.code-troopers.com/images/postFilBleu/search.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Écran de recherche d&#39;itinéraire&#34; class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postFilBleu/search.png&#34; alt=&#34;Splash screen&#34;/&gt;
         &lt;/a&gt;
-        &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/commutes1.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Écran de plusieurs trajets possibles&#34; class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/commutes1.png&#34; alt=&#34;Menu screen&#34;/&gt;
+        &lt;a href=&#34;http://test.code-troopers.com/images/postFilBleu/commutes1.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Écran de plusieurs trajets possibles&#34; class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postFilBleu/commutes1.png&#34; alt=&#34;Menu screen&#34;/&gt;
         &lt;/a&gt;
-        &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/commutes2.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Écran de plusieurs trajets possibles - bis&#34; class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/commutes2.png&#34; alt=&#34;Home screen&#34;/&gt;
+        &lt;a href=&#34;http://test.code-troopers.com/images/postFilBleu/commutes2.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Écran de plusieurs trajets possibles - bis&#34; class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postFilBleu/commutes2.png&#34; alt=&#34;Home screen&#34;/&gt;
         &lt;/a&gt;
-        &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/detail1.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Écran de détail d&#39;un trajet avec plusieurs correspondances&#34; class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/detail1.png&#34; alt=&#34;Artist screen&#34;/&gt;
+        &lt;a href=&#34;http://test.code-troopers.com/images/postFilBleu/detail1.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Écran de détail d&#39;un trajet avec plusieurs correspondances&#34; class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postFilBleu/detail1.png&#34; alt=&#34;Artist screen&#34;/&gt;
         &lt;/a&gt;
-        &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/detail2.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Écran de détail d&#39;un trajet avec le tracé sur la carte&#34; class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/detail2.png&#34; alt=&#34;Artist screen&#34;/&gt;
+        &lt;a href=&#34;http://test.code-troopers.com/images/postFilBleu/detail2.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Écran de détail d&#39;un trajet avec le tracé sur la carte&#34; class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postFilBleu/detail2.png&#34; alt=&#34;Artist screen&#34;/&gt;
         &lt;/a&gt;
-        &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/notif.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Notification pour un trajet&#34; class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/notif.png&#34; alt=&#34;Artist screen&#34;/&gt;
+        &lt;a href=&#34;http://test.code-troopers.com/images/postFilBleu/notif.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Notification pour un trajet&#34; class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postFilBleu/notif.png&#34; alt=&#34;Artist screen&#34;/&gt;
         &lt;/a&gt;
-        &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/map1.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Écran de la carte de tours avec l&#39;emplacement des arrêts&#34; class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/map1.png&#34; alt=&#34;Artist screen&#34;/&gt;
+        &lt;a href=&#34;http://test.code-troopers.com/images/postFilBleu/map1.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Écran de la carte de tours avec l&#39;emplacement des arrêts&#34; class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postFilBleu/map1.png&#34; alt=&#34;Artist screen&#34;/&gt;
         &lt;/a&gt;
-        &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/map2.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Écran de la carte de tours avec l&#39;emplacement des arrêts - bis&#34; class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/map2.png&#34; alt=&#34;Artist screen&#34;/&gt;
+        &lt;a href=&#34;http://test.code-troopers.com/images/postFilBleu/map2.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Écran de la carte de tours avec l&#39;emplacement des arrêts - bis&#34; class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postFilBleu/map2.png&#34; alt=&#34;Artist screen&#34;/&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;p&gt;
@@ -912,23 +912,23 @@ Et comme hier soir a eu lieu la première soirée bêta-test organisée à la &l
     Si vous avez la chance de posséder une &lt;b&gt;google watch&lt;/b&gt;, vous pourrez bénéficier de notifications tout spécialement prévues lorsque vous planifirez une alerte sur un trajet. Et voilà ce que ça donne :
     &lt;/p&gt;
     &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-        &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/watch-1.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;&#34; class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/watch-1.png&#34; alt=&#34;Google watch 1&#34;/&gt;
+        &lt;a href=&#34;http://test.code-troopers.com/images/postFilBleu/watch-1.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;&#34; class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postFilBleu/watch-1.png&#34; alt=&#34;Google watch 1&#34;/&gt;
         &lt;/a&gt;
-        &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/watch-2.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;&#34; class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/watch-2.png&#34; alt=&#34;Google watch 2&#34;/&gt;
+        &lt;a href=&#34;http://test.code-troopers.com/images/postFilBleu/watch-2.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;&#34; class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postFilBleu/watch-2.png&#34; alt=&#34;Google watch 2&#34;/&gt;
         &lt;/a&gt;
-        &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/watch-3.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;&#34; class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/watch-3.png&#34; alt=&#34;Google watch 3&#34;/&gt;
+        &lt;a href=&#34;http://test.code-troopers.com/images/postFilBleu/watch-3.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;&#34; class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postFilBleu/watch-3.png&#34; alt=&#34;Google watch 3&#34;/&gt;
         &lt;/a&gt;
-        &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/watch-4.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;&#34; class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/watch-4.png&#34; alt=&#34;Google watch 4&#34;/&gt;
+        &lt;a href=&#34;http://test.code-troopers.com/images/postFilBleu/watch-4.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;&#34; class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postFilBleu/watch-4.png&#34; alt=&#34;Google watch 4&#34;/&gt;
         &lt;/a&gt;
-        &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/watch-5.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;&#34; class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/watch-5.png&#34; alt=&#34;Google watch 5&#34;/&gt;
+        &lt;a href=&#34;http://test.code-troopers.com/images/postFilBleu/watch-5.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;&#34; class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postFilBleu/watch-5.png&#34; alt=&#34;Google watch 5&#34;/&gt;
         &lt;/a&gt;
-        &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/watch-6.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;&#34; class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postFilBleu/watch-6.png&#34; alt=&#34;Google watch 6&#34;/&gt;
+        &lt;a href=&#34;http://test.code-troopers.com/images/postFilBleu/watch-6.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;&#34; class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postFilBleu/watch-6.png&#34; alt=&#34;Google watch 6&#34;/&gt;
         &lt;/a&gt;
     &lt;/div&gt;
 &lt;h3&gt;Je veux être bêta-testeur !&lt;/h3&gt;
@@ -942,7 +942,7 @@ Et comme hier soir a eu lieu la première soirée bêta-test organisée à la &l
     &lt;p style=&#34;color:red&#34;&gt;La phase de bêta-test est terminée. L&#39;application Navig&#39;Tours est accessible pour tous sur le Play Store :&lt;/p&gt;
     &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
         &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.codetroopers.transport.tours&#34;&gt;
-            &lt;img class=&#34;medium&#34; alt=&#34;QRcode application Aucard de Tours&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postNavigTours2/qrCode_playstore_navigtours.png&#34; /&gt;
+            &lt;img class=&#34;medium&#34; alt=&#34;QRcode application Aucard de Tours&#34; src=&#34;http://test.code-troopers.com/images/postNavigTours2/qrCode_playstore_navigtours.png&#34; /&gt;
         &lt;/a&gt;
         &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.codetroopers.transport.tours&#34;&gt;
             &lt;img alt=&#34;Get it on Google Play&#34; src=&#34;https://developer.android.com/images/brand/fr_generic_rgb_wo_60.png&#34; /&gt;
@@ -962,10 +962,10 @@ Et comme hier soir a eu lieu la première soirée bêta-test organisée à la &l
     
     <item>
       <title>Coursera - Android Handheld Systems : 3ème et dernier cours</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/07/23/courseraandroid2</link>
+      <link>http://test.code-troopers.com/2014/07/23/courseraandroid2</link>
       <pubDate>Wed, 23 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/07/23/courseraandroid2</guid>
+      <guid>http://test.code-troopers.com/2014/07/23/courseraandroid2</guid>
       <description>&lt;h3&gt;On Enchaîne !&lt;/h3&gt;
 &lt;p&gt;
     Ce lundi 21 juillet vient de débuter &lt;a
@@ -1035,10 +1035,10 @@ Et comme hier soir a eu lieu la première soirée bêta-test organisée à la &l
     
     <item>
       <title>L&#39;application Terres du Son est disponible</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/06/24/tds2</link>
+      <link>http://test.code-troopers.com/2014/06/24/tds2</link>
       <pubDate>Tue, 24 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/06/24/tds2</guid>
+      <guid>http://test.code-troopers.com/2014/06/24/tds2</guid>
       <description>&lt;p&gt;C&amp;rsquo;était annoncé, c&amp;rsquo;est maintenant chose faite ! L&amp;rsquo;application android pour &lt;em&gt;Terres du Son 2014&lt;/em&gt; est sur le Play Store.&lt;/p&gt;
 
 &lt;p&gt;Développée en partenariat avec l&amp;rsquo;équipe de TDS, cette application vous offre la possibilité de :&lt;/p&gt;
@@ -1055,20 +1055,20 @@ Et comme hier soir a eu lieu la première soirée bêta-test organisée à la &l
 &lt;/ul&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/launch.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Splash screen de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/launch.png&#34; alt=&#34;Splash screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postTDS2/launch.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Splash screen de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postTDS2/launch.png&#34; alt=&#34;Splash screen&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/home.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Menu de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/home.png&#34; alt=&#34;Menu screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postTDS2/home.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Menu de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postTDS2/home.png&#34; alt=&#34;Menu screen&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/prog.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Programme par jour et par scène&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/prog.png&#34; alt=&#34;Programme screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postTDS2/prog.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Programme par jour et par scène&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postTDS2/prog.png&#34; alt=&#34;Programme screen&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/artiste.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Une fiche artiste de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/artiste.png&#34; alt=&#34;Artist screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postTDS2/artiste.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Une fiche artiste de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postTDS2/artiste.png&#34; alt=&#34;Artist screen&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/notifs.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Récap de notifications plannifiées pour les navettes&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/notifs.png&#34; alt=&#34;Alerte screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postTDS2/notifs.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Récap de notifications plannifiées pour les navettes&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postTDS2/notifs.png&#34; alt=&#34;Alerte screen&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1078,7 +1078,7 @@ Et comme pour tous les festivals en région Centre, pensez à venir avec votre g
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
     &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.codetroopers.terresduson&#34;&gt;
-      &lt;img class=&#34;medium&#34; alt=&#34;QRcode application Terres du Son&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/qrcode_playstore_tds.png&#34; /&gt;
+      &lt;img class=&#34;medium&#34; alt=&#34;QRcode application Terres du Son&#34; src=&#34;http://test.code-troopers.com/images/postTDS2/qrcode_playstore_tds.png&#34; /&gt;
     &lt;/a&gt;
     &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.codetroopers.terresduson&#34;&gt;
       &lt;img alt=&#34;Get it on Google Play&#34; src=&#34;https://developer.android.com/images/brand/fr_generic_rgb_wo_60.png&#34; /&gt;
@@ -1094,10 +1094,10 @@ il est nécessaire de connecter son compte &lt;a href=&#34;http://www.deezer.com
     
     <item>
       <title>Coursera - Android Handheld Systems : 2ème cours</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/05/15/courseraandroid</link>
+      <link>http://test.code-troopers.com/2014/05/15/courseraandroid</link>
       <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/05/15/courseraandroid</guid>
+      <guid>http://test.code-troopers.com/2014/05/15/courseraandroid</guid>
       <description>&lt;h3&gt;Coursera &amp; Android&lt;/h3&gt;
 &lt;p&gt;
    Coursera propose depuis ce Lundi (12 mai) &lt;a href=&#34;https://class.coursera.org/posa-002&#34;&gt;un nouveau cours de développement Android&lt;/a&gt;.
@@ -1145,26 +1145,26 @@ il est nécessaire de connecter son compte &lt;a href=&#34;http://www.deezer.com
     
     <item>
       <title>Sortie de l&#39;appli Aucard de Tours</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/04/14/aucard2</link>
+      <link>http://test.code-troopers.com/2014/04/14/aucard2</link>
       <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/04/14/aucard2</guid>
+      <guid>http://test.code-troopers.com/2014/04/14/aucard2</guid>
       <description>&lt;p&gt;Suite à notre &lt;a href=&#34;http://code-troopers.com/2014/03/17/Aucard.html&#34;&gt;partenariat avec Radio Béton&lt;/a&gt;, nous vous annonçons la mise à disposition sur le Play Store de l&amp;rsquo;application officielle du festival Aucard de Tours 2014.&lt;/p&gt;
 
-&lt;p&gt;Comme vous le savez sûrement le festival Aucard de Tours, qui souhaite favoriser la découverte, ne divulgue pas la programmation heure par heure. C&amp;rsquo;est pourquoi ce n&amp;rsquo;est qu&amp;rsquo;une fois rentrés dans l&amp;rsquo;enceinte du festival que vous prenez connaissance du programme de la soirée &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/aucard_tableau.jpg&#34; title=&#34;Tableau de la programmation&#34; data-lightbox=&#34;image-1&#34; class=&#34;inlineBoxes&#34;&gt; sur le tableau&lt;/a&gt;. Grâce à l&amp;rsquo;application Android, vous pourrez scanner un QR code (sur ce même tableau) pour disposer du programme complet de la soirée sur votre mobile. Fini les allers-retours au tableau pour savoir quel est le prochain concert.&lt;/p&gt;
+&lt;p&gt;Comme vous le savez sûrement le festival Aucard de Tours, qui souhaite favoriser la découverte, ne divulgue pas la programmation heure par heure. C&amp;rsquo;est pourquoi ce n&amp;rsquo;est qu&amp;rsquo;une fois rentrés dans l&amp;rsquo;enceinte du festival que vous prenez connaissance du programme de la soirée &lt;a href=&#34;http://test.code-troopers.com/images/postAucard2/aucard_tableau.jpg&#34; title=&#34;Tableau de la programmation&#34; data-lightbox=&#34;image-1&#34; class=&#34;inlineBoxes&#34;&gt; sur le tableau&lt;/a&gt;. Grâce à l&amp;rsquo;application Android, vous pourrez scanner un QR code (sur ce même tableau) pour disposer du programme complet de la soirée sur votre mobile. Fini les allers-retours au tableau pour savoir quel est le prochain concert.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen1.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Splash screen de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen1.png&#34; alt=&#34;Splash screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postAucard2/screen1.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Splash screen de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAucard2/screen1.png&#34; alt=&#34;Splash screen&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen2.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Menu de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen2.png&#34; alt=&#34;Menu screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postAucard2/screen2.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Menu de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAucard2/screen2.png&#34; alt=&#34;Menu screen&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen3.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Home screen de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen3.png&#34; alt=&#34;Home screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postAucard2/screen3.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Home screen de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAucard2/screen3.png&#34; alt=&#34;Home screen&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen4.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Une fiche artiste de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen4.png&#34; alt=&#34;Artist screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postAucard2/screen4.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Une fiche artiste de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAucard2/screen4.png&#34; alt=&#34;Artist screen&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1182,7 +1182,7 @@ il est nécessaire de connecter son compte &lt;a href=&#34;http://www.deezer.com
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
     &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.codetroopers.aucard&#34;&gt;
-      &lt;img class=&#34;medium&#34; alt=&#34;QRcode application Aucard de Tours&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/qrcode_playstore_aucard.png&#34; /&gt;
+      &lt;img class=&#34;medium&#34; alt=&#34;QRcode application Aucard de Tours&#34; src=&#34;http://test.code-troopers.com/images/postAucard2/qrcode_playstore_aucard.png&#34; /&gt;
     &lt;/a&gt;
     &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.codetroopers.aucard&#34;&gt;
       &lt;img alt=&#34;Get it on Google Play&#34; src=&#34;https://developer.android.com/images/brand/fr_generic_rgb_wo_60.png&#34; /&gt;
@@ -1195,15 +1195,15 @@ il est nécessaire de connecter son compte &lt;a href=&#34;http://www.deezer.com
     
     <item>
       <title>Application officielle Android pour Terres du son 2014</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/04/08/terresduson</link>
+      <link>http://test.code-troopers.com/2014/04/08/terresduson</link>
       <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/04/08/terresduson</guid>
+      <guid>http://test.code-troopers.com/2014/04/08/terresduson</guid>
       <description>&lt;p&gt;Comme vous avez pu le voir dans un &lt;a href=&#34;http://code-troopers.com/2014/03/17/Aucard.html&#34;&gt;article précédent&lt;/a&gt;, Code-Troopers est en train de réaliser l&amp;rsquo;application officielle Android pour &lt;a href=&#34;http://www.radiobeton.com/aucard/&#34;&gt;Aucard de Tours&lt;/a&gt;. Deuxième bonne nouvelle, nous réalisons aussi l&amp;rsquo;application officielle Android pour un autre festival tourangeau, &lt;a href=&#34;http://terresduson.com/&#34;&gt;Terres du son&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a style=&#34;display: inline&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/postTDS/tds.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;Logo Terres du son&#34;&gt;
-        &lt;img class=&#34;mini&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postTDS/tds.png&#34; alt=&#34;tds logo&#34;/&gt;
+&lt;a style=&#34;display: inline&#34; href=&#34;http://test.code-troopers.com/images/postTDS/tds.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;Logo Terres du son&#34;&gt;
+        &lt;img class=&#34;mini&#34; src=&#34;http://test.code-troopers.com/images/postTDS/tds.png&#34; alt=&#34;tds logo&#34;/&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1219,18 +1219,18 @@ il est nécessaire de connecter son compte &lt;a href=&#34;http://www.deezer.com
     
     <item>
       <title>Code-Troopers &#43; Aucard de Tours = Appli Android</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/03/17/aucard</link>
+      <link>http://test.code-troopers.com/2014/03/17/aucard</link>
       <pubDate>Mon, 17 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/03/17/aucard</guid>
+      <guid>http://test.code-troopers.com/2014/03/17/aucard</guid>
       <description>&lt;p&gt;
    L&#39;équipe Code-Troopers est fière de vous annoncer son implication dans la vie tourangelle via la réalisation de
    l&#39;application officielle du festival &lt;a href=&#34;http://www.radiobeton.com/aucard/&#34; &gt;Aucard de Tours&lt;/a&gt;.
 &lt;/p&gt;
 
 
-&lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAucard/aucard2014.jpg&#34; data-lightbox=&#34;image-1&#34; title=&#34;Affiche du festival Aucard de Tours 2014&#34;&gt;
-    &lt;img class=&#34;mini&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAucard/aucard2014.jpg&#34; alt=&#34;Affiche du festival Aucard de Tours 2014&#34;/&gt;
+&lt;a href=&#34;http://test.code-troopers.com/images/postAucard/aucard2014.jpg&#34; data-lightbox=&#34;image-1&#34; title=&#34;Affiche du festival Aucard de Tours 2014&#34;&gt;
+    &lt;img class=&#34;mini&#34; src=&#34;http://test.code-troopers.com/images/postAucard/aucard2014.jpg&#34; alt=&#34;Affiche du festival Aucard de Tours 2014&#34;/&gt;
 &lt;/a&gt;
 
 &lt;p&gt;
@@ -1264,10 +1264,10 @@ il est nécessaire de connecter son compte &lt;a href=&#34;http://www.deezer.com
     
     <item>
       <title>C&#39;est reparti pour un tour</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/01/01/cestreparti</link>
+      <link>http://test.code-troopers.com/2014/01/01/cestreparti</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/01/01/cestreparti</guid>
+      <guid>http://test.code-troopers.com/2014/01/01/cestreparti</guid>
       <description>&lt;p&gt;Salut à vous jeunes padawans et bienvenue sur le nouveau blog des Code-Troopers tourangeaux.&lt;/p&gt;
 
 &lt;p&gt;Le redesign du site indique le réel lancement d&#39;activité de Code-Troopers, nous sommes aujourd&#39;hui 7 développeurs

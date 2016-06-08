@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/security/</link>
+    <link>http://test.code-troopers.com/tags/security/</link>
     <description>Recent content in Security on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 05 Mar 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Strength Password Indicator Pour Play2</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/03/05/passwordstrength</link>
+      <link>http://test.code-troopers.com/2014/03/05/passwordstrength</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/03/05/passwordstrength</guid>
+      <guid>http://test.code-troopers.com/2014/03/05/passwordstrength</guid>
       <description>
 
 &lt;h2 id=&#34;introduction:5e76d6bd0d63e3520a432c1520957f8a&#34;&gt;Introduction&lt;/h2&gt;
@@ -121,21 +121,21 @@ puis l&amp;rsquo;appel de la fonction javascript de zxcvbn qui se charge de calc
 
 &lt;p&gt;Comme vous pouvez le voir dans le js qui traite le retour de la fonction zxcvbn, il y a 3 niveaux de couleurs qui se déclenchent à différents niveaux, combinés à un simple label&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postPasswordStrength/weak.png&#34; data-lightbox=&#34;image-1&#34;
+&lt;p&gt;&lt;a href=&#34;http://test.code-troopers.com/images/postPasswordStrength/weak.png&#34; data-lightbox=&#34;image-1&#34;
    title=&#34;Feedback pour un mauvais mot de passe&#34;&gt;
-    &lt;img class=&#34;mini&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postPasswordStrength/weak.png&#34; alt=&#34;Feedback pour un mauvais mot de passe&#34;/&gt;
+    &lt;img class=&#34;mini&#34; src=&#34;http://test.code-troopers.com/images/postPasswordStrength/weak.png&#34; alt=&#34;Feedback pour un mauvais mot de passe&#34;/&gt;
 &lt;/a&gt;
-&lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postPasswordStrength/fair.png&#34; data-lightbox=&#34;image-1&#34;
+&lt;a href=&#34;http://test.code-troopers.com/images/postPasswordStrength/fair.png&#34; data-lightbox=&#34;image-1&#34;
    title=&#34;Feedback pour un mot de passe moyen&#34;&gt;
-    &lt;img class=&#34;mini&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postPasswordStrength/fair.png&#34; alt=&#34;Feedback pour un mot de passe moyen&#34;/&gt;
+    &lt;img class=&#34;mini&#34; src=&#34;http://test.code-troopers.com/images/postPasswordStrength/fair.png&#34; alt=&#34;Feedback pour un mot de passe moyen&#34;/&gt;
 &lt;/a&gt;
-&lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postPasswordStrength/good.png&#34; data-lightbox=&#34;image-1&#34;
+&lt;a href=&#34;http://test.code-troopers.com/images/postPasswordStrength/good.png&#34; data-lightbox=&#34;image-1&#34;
    title=&#34;Feedback pour un bon mot de passe&#34;&gt;
-    &lt;img class=&#34;mini&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postPasswordStrength/good.png&#34; alt=&#34;Feedback pour un bon mot de passe&#34;/&gt;
+    &lt;img class=&#34;mini&#34; src=&#34;http://test.code-troopers.com/images/postPasswordStrength/good.png&#34; alt=&#34;Feedback pour un bon mot de passe&#34;/&gt;
 &lt;/a&gt;
-&lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postPasswordStrength/great.png&#34; data-lightbox=&#34;image-1&#34;
+&lt;a href=&#34;http://test.code-troopers.com/images/postPasswordStrength/great.png&#34; data-lightbox=&#34;image-1&#34;
    title=&#34;Feedback pour un mot de passe parfait&#34;&gt;
-    &lt;img class=&#34;mini&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postPasswordStrength/great.png&#34; alt=&#34;Feedback pour un mot de passe parfait&#34;/&gt;
+    &lt;img class=&#34;mini&#34; src=&#34;http://test.code-troopers.com/images/postPasswordStrength/great.png&#34; alt=&#34;Feedback pour un mot de passe parfait&#34;/&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;sources:5e76d6bd0d63e3520a432c1520957f8a&#34;&gt;Sources&lt;/h2&gt;

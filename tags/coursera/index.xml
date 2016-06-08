@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coursera on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/coursera/</link>
+    <link>http://test.code-troopers.com/tags/coursera/</link>
     <description>Recent content in Coursera on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 23 Jul 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/coursera/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/coursera/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Coursera - Android Handheld Systems : 3ème et dernier cours</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/07/23/courseraandroid2</link>
+      <link>http://test.code-troopers.com/2014/07/23/courseraandroid2</link>
       <pubDate>Wed, 23 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/07/23/courseraandroid2</guid>
+      <guid>http://test.code-troopers.com/2014/07/23/courseraandroid2</guid>
       <description>&lt;h3&gt;On Enchaîne !&lt;/h3&gt;
 &lt;p&gt;
     Ce lundi 21 juillet vient de débuter &lt;a
@@ -84,10 +84,10 @@
     
     <item>
       <title>Coursera - Android Handheld Systems : 2ème cours</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/05/15/courseraandroid</link>
+      <link>http://test.code-troopers.com/2014/05/15/courseraandroid</link>
       <pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/05/15/courseraandroid</guid>
+      <guid>http://test.code-troopers.com/2014/05/15/courseraandroid</guid>
       <description>&lt;h3&gt;Coursera &amp; Android&lt;/h3&gt;
 &lt;p&gt;
    Coursera propose depuis ce Lundi (12 mai) &lt;a href=&#34;https://class.coursera.org/posa-002&#34;&gt;un nouveau cours de développement Android&lt;/a&gt;.

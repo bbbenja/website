@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Développement on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/d%C3%A9veloppement/</link>
+    <link>http://test.code-troopers.com/tags/d%C3%A9veloppement/</link>
     <description>Recent content in Développement on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/d%C3%A9veloppement/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/d%C3%A9veloppement/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>C&#39;est reparti pour un tour</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/01/01/cestreparti</link>
+      <link>http://test.code-troopers.com/2014/01/01/cestreparti</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/01/01/cestreparti</guid>
+      <guid>http://test.code-troopers.com/2014/01/01/cestreparti</guid>
       <description>&lt;p&gt;Salut à vous jeunes padawans et bienvenue sur le nouveau blog des Code-Troopers tourangeaux.&lt;/p&gt;
 
 &lt;p&gt;Le redesign du site indique le réel lancement d&#39;activité de Code-Troopers, nous sommes aujourd&#39;hui 7 développeurs

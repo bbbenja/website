@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Helper on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/helper/</link>
+    <link>http://test.code-troopers.com/tags/helper/</link>
     <description>Recent content in Helper on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 15 Dec 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/helper/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/helper/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ct - alias de projets</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/12/15/ct_project_alias</link>
+      <link>http://test.code-troopers.com/2014/12/15/ct_project_alias</link>
       <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/12/15/ct_project_alias</guid>
+      <guid>http://test.code-troopers.com/2014/12/15/ct_project_alias</guid>
       <description>
 
 &lt;p&gt;Dans l’équipe Code-Troopers, nous manipulons des technos qui sont assez différentes et qui possèdent chacune un vocabulaire différent qui leur permet de fonctionner en ligne de commande.
@@ -38,7 +38,7 @@ Du coup, un de nos problèmes récurrents est de se rappeler quelle commande doi
 
 &lt;ul&gt;
 &lt;li&gt;sous Mac, il est important d’installer gnu-sed en lieu et place de celui d’origine&lt;/li&gt;
-&lt;li&gt;sous Windows, il vous faut un shell unix (&lt;a href=&#34;https://blog-7460a.firebaseapp.com/2014/10/01/babun&#34;&gt;Babun&lt;/a&gt; est conseillé).&lt;/li&gt;
+&lt;li&gt;sous Windows, il vous faut un shell unix (&lt;a href=&#34;http://test.code-troopers.com/2014/10/01/babun&#34;&gt;Babun&lt;/a&gt; est conseillé).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;comment-l-utiliser:7c3eefad04d6091e508b225df85821df&#34;&gt;Comment l’utiliser ?&lt;/h2&gt;
@@ -80,8 +80,8 @@ test=’mvn test’
 &lt;p&gt;Nous avons donc rajouté la commande &lt;code&gt;ct ports&lt;/code&gt; qui démarre un micro serveur http et permet de récupérer la liste des ports qui attendent des connexions sur nos machines, ainsi que le dossier de travail associé (ce qui est souvent suffisant pour savoir de quel projet il s’agit).&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postCT/listen.png&#34; title=&#34;Exemple de listing des ports&#34; data-lightbox=&#34;group1&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postCT/listen.png&#34; alt=&#34;Exemple de listing des ports&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postCT/listen.png&#34; title=&#34;Exemple de listing des ports&#34; data-lightbox=&#34;group1&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postCT/listen.png&#34; alt=&#34;Exemple de listing des ports&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Pour pouvoir utiliser cette commande, il faut que les quelques outils suivants soient installés : &lt;em&gt;netcat&lt;/em&gt;, &lt;em&gt;awk&lt;/em&gt;, &lt;em&gt;wget&lt;/em&gt; et &lt;em&gt;lsof&lt;/em&gt;.&lt;/p&gt;
@@ -89,7 +89,7 @@ test=’mvn test’
 &lt;h3 id=&#34;exemple-d-utilisation:7c3eefad04d6091e508b225df85821df&#34;&gt;Exemple d&amp;rsquo;utilisation&lt;/h3&gt;
 
 &lt;div style=&#34;text-align:center;&#34;&gt;
-&lt;video width=&#34;90%&#34; controls src=&#34;https://blog-7460a.firebaseapp.com/videos/screencast_ct.webm&#34;&gt;
+&lt;video width=&#34;90%&#34; controls src=&#34;http://test.code-troopers.com/videos/screencast_ct.webm&#34;&gt;
 &lt;object type=&#34;application/x-shockwave-flash&#34; width=&#34;400&#34; height=&#34;222&#34; data=&#34;http://www.youtube.com/v/HVMoJqg41Bw&#34;&gt;
   &lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/jkWjmGdraR8&#34; /&gt;
   &lt;param name=&#34;wmode&#34; value=&#34;transparent&#34; /&gt;

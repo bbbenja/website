@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shell on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/shell/</link>
+    <link>http://test.code-troopers.com/tags/shell/</link>
     <description>Recent content in Shell on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 15 May 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>vim : 10 astuces de configuration pour vos dotfiles</title>
-      <link>https://blog-7460a.firebaseapp.com/2015/05/15/dotfiles-vim</link>
+      <link>http://test.code-troopers.com/2015/05/15/dotfiles-vim</link>
       <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2015/05/15/dotfiles-vim</guid>
+      <guid>http://test.code-troopers.com/2015/05/15/dotfiles-vim</guid>
       <description>
 
 &lt;p&gt;Cet article sera le premier d&amp;rsquo;une série consacrée aux &lt;em&gt;dotfiles&lt;/em&gt;. Alors les &lt;em&gt;dotfiles&lt;/em&gt;, qu&amp;rsquo;est-ce que c&amp;rsquo;est Obi-Wan ? Les &lt;em&gt;dotfiles&lt;/em&gt;, ce sont tous les fichiers texte de configuration que l&amp;rsquo;on peut retrouver dans son répertoire utilisateur pour sauvegarder ses préférences. De nombreux logiciels utilisent cette méthode. On peut citer gnome, IntelliJ, Maven,  ssh, git, bash et tant d&amp;rsquo;autres. On les appelle &lt;em&gt;dotfiles&lt;/em&gt; −que l&amp;rsquo;on peut traduire par fichiers point− parce qu&amp;rsquo;ils ont un nom qui commence par un point, ce qui correspond aux fichiers cachés sous linux.&lt;/p&gt;
@@ -34,7 +34,7 @@ endif
 &lt;p&gt;De base sous vim on édite son .vimrc, on quitte et on réouvre un fichier pour voir la modification. Grâce à ces lignes, il suffira de sauvegarder pour voir ses modifications actives dans toutes les instances ouvertes de vim.&lt;/p&gt;
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
-&lt;video style=&#34;width: 90%; max-width: 600px;&#34; controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-saveactif.webm&#34;&gt;&lt;/video&gt;
+&lt;video style=&#34;width: 90%; max-width: 600px;&#34; controls src=&#34;http://test.code-troopers.com/videos/dotfiles-saveactif.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&#34;en-parlant-de-sauvegarde:45eb03a180390a8741dc435049213d05&#34;&gt;En parlant de sauvegarde&lt;/h1&gt;
@@ -48,7 +48,7 @@ inoremap &amp;lt;C-Z&amp;gt; &amp;lt;C-O&amp;gt;:update&amp;lt;CR&amp;gt;
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-ctrlz.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-ctrlz.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&#34;et-pourquoi-pas-ctrl-s:45eb03a180390a8741dc435049213d05&#34;&gt;Et pourquoi pas ctrl-s&lt;/h1&gt;
@@ -64,7 +64,7 @@ Selon la disposition de votre clavier, vous pouvez remplacer &lt;code&gt;c&lt;/c
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-ctrlctsr.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-ctrlctsr.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&#34;un-peu-de-couleurs:45eb03a180390a8741dc435049213d05&#34;&gt;un peu de couleurs&lt;/h1&gt;
@@ -76,7 +76,7 @@ Selon la disposition de votre clavier, vous pouvez remplacer &lt;code&gt;c&lt;/c
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-syntax.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-syntax.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&#34;set-nu:45eb03a180390a8741dc435049213d05&#34;&gt;set nu&lt;/h1&gt;
@@ -88,7 +88,7 @@ Selon la disposition de votre clavier, vous pouvez remplacer &lt;code&gt;c&lt;/c
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-setnu.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-setnu.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&#34;éviter-la-touche-échap:45eb03a180390a8741dc435049213d05&#34;&gt;Éviter la touche échap&lt;/h1&gt;
@@ -101,7 +101,7 @@ Comme je suis en bépo (au lieu de azerty) et que je n&amp;rsquo;écris presque 
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-exitee.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-exitee.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&#34;pathogen-https-github-com-tpope-vim-pathogen:45eb03a180390a8741dc435049213d05&#34;&gt;&lt;a href=&#34;https://github.com/tpope/vim-pathogen&#34;&gt;pathogen&lt;/a&gt;&lt;/h1&gt;
@@ -127,7 +127,7 @@ git clone https://github.com/flazz/vim-colorschemes.git
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-colormatrix.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-colormatrix.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;nerdtree:45eb03a180390a8741dc435049213d05&#34;&gt;nerdtree&lt;/h2&gt;
@@ -141,7 +141,7 @@ Dorénavant, il vous suffira de faire ctrl-n pour avoir votre répertoire de tra
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-nerttree.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-nerttree.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;nerdcommenter:45eb03a180390a8741dc435049213d05&#34;&gt;nerdcommenter&lt;/h2&gt;
@@ -156,7 +156,7 @@ Si vous vous demandez ce qu&amp;rsquo;est la touche &lt;code&gt;&amp;lt;Leader&a
 
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
 &lt;video style=&#34;width: 90%; max-width: 600px;&#34;
- controls src=&#34;https://blog-7460a.firebaseapp.com/videos/dotfiles-comment.webm&#34;&gt;&lt;/video&gt;
+ controls src=&#34;http://test.code-troopers.com/videos/dotfiles-comment.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;
 
 &lt;h1 id=&#34;aller-plus-loin:45eb03a180390a8741dc435049213d05&#34;&gt;Aller plus loin&lt;/h1&gt;
@@ -175,10 +175,10 @@ source ~/.vimrc
     
     <item>
       <title>ct - alias de projets</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/12/15/ct_project_alias</link>
+      <link>http://test.code-troopers.com/2014/12/15/ct_project_alias</link>
       <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/12/15/ct_project_alias</guid>
+      <guid>http://test.code-troopers.com/2014/12/15/ct_project_alias</guid>
       <description>
 
 &lt;p&gt;Dans l’équipe Code-Troopers, nous manipulons des technos qui sont assez différentes et qui possèdent chacune un vocabulaire différent qui leur permet de fonctionner en ligne de commande.
@@ -202,7 +202,7 @@ Du coup, un de nos problèmes récurrents est de se rappeler quelle commande doi
 
 &lt;ul&gt;
 &lt;li&gt;sous Mac, il est important d’installer gnu-sed en lieu et place de celui d’origine&lt;/li&gt;
-&lt;li&gt;sous Windows, il vous faut un shell unix (&lt;a href=&#34;https://blog-7460a.firebaseapp.com/2014/10/01/babun&#34;&gt;Babun&lt;/a&gt; est conseillé).&lt;/li&gt;
+&lt;li&gt;sous Windows, il vous faut un shell unix (&lt;a href=&#34;http://test.code-troopers.com/2014/10/01/babun&#34;&gt;Babun&lt;/a&gt; est conseillé).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;comment-l-utiliser:7c3eefad04d6091e508b225df85821df&#34;&gt;Comment l’utiliser ?&lt;/h2&gt;
@@ -244,8 +244,8 @@ test=’mvn test’
 &lt;p&gt;Nous avons donc rajouté la commande &lt;code&gt;ct ports&lt;/code&gt; qui démarre un micro serveur http et permet de récupérer la liste des ports qui attendent des connexions sur nos machines, ainsi que le dossier de travail associé (ce qui est souvent suffisant pour savoir de quel projet il s’agit).&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postCT/listen.png&#34; title=&#34;Exemple de listing des ports&#34; data-lightbox=&#34;group1&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postCT/listen.png&#34; alt=&#34;Exemple de listing des ports&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postCT/listen.png&#34; title=&#34;Exemple de listing des ports&#34; data-lightbox=&#34;group1&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postCT/listen.png&#34; alt=&#34;Exemple de listing des ports&#34;&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Pour pouvoir utiliser cette commande, il faut que les quelques outils suivants soient installés : &lt;em&gt;netcat&lt;/em&gt;, &lt;em&gt;awk&lt;/em&gt;, &lt;em&gt;wget&lt;/em&gt; et &lt;em&gt;lsof&lt;/em&gt;.&lt;/p&gt;
@@ -253,7 +253,7 @@ test=’mvn test’
 &lt;h3 id=&#34;exemple-d-utilisation:7c3eefad04d6091e508b225df85821df&#34;&gt;Exemple d&amp;rsquo;utilisation&lt;/h3&gt;
 
 &lt;div style=&#34;text-align:center;&#34;&gt;
-&lt;video width=&#34;90%&#34; controls src=&#34;https://blog-7460a.firebaseapp.com/videos/screencast_ct.webm&#34;&gt;
+&lt;video width=&#34;90%&#34; controls src=&#34;http://test.code-troopers.com/videos/screencast_ct.webm&#34;&gt;
 &lt;object type=&#34;application/x-shockwave-flash&#34; width=&#34;400&#34; height=&#34;222&#34; data=&#34;http://www.youtube.com/v/HVMoJqg41Bw&#34;&gt;
   &lt;param name=&#34;movie&#34; value=&#34;http://www.youtube.com/v/jkWjmGdraR8&#34; /&gt;
   &lt;param name=&#34;wmode&#34; value=&#34;transparent&#34; /&gt;
@@ -265,10 +265,10 @@ Screencast d&#39;une utilisation quotidienne de ct. Vous n&#39;avez pas de navig
     
     <item>
       <title>Babun un shell sous Windows</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/10/01/babun</link>
+      <link>http://test.code-troopers.com/2014/10/01/babun</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/10/01/babun</guid>
+      <guid>http://test.code-troopers.com/2014/10/01/babun</guid>
       <description>
 
 &lt;h2 id=&#34;oh-non-mon-client-m-oblige-à-être-sous-windows:4926350cdc3d1b77871a61037e1a1233&#34;&gt;Oh non, mon client m&amp;rsquo;oblige à être sous Windows&lt;/h2&gt;
@@ -287,11 +287,11 @@ Screencast d&#39;une utilisation quotidienne de ct. Vous n&#39;avez pas de navig
 
 &lt;p&gt;Une fois la &lt;em&gt;longue&lt;/em&gt; installation terminée, vous disposez d&amp;rsquo;un shell bien configuré avec la plupart des outils nécessaires bien configurés.&lt;/p&gt;
 
-&lt;p&gt;Cependant vous voudrez certainement personnaliser votre environnement avec quelques alias. Pour ceci, il suffit de créer un fichier contenant vos alias dans &lt;code&gt;~/.oh-my-zsh/custom/aliases.zsh&lt;/code&gt; (le nom est libre, le fichier doit porter l&amp;rsquo;extension  &lt;code&gt;zsh&lt;/code&gt; pour qu&amp;rsquo;il soit automatiquement chargé). Il ne s&amp;rsquo;agit ni plus ni moins de la configuration permise par oh-my-zsh (vous pouvez vous référer &lt;a href=&#34;https://blog-7460a.firebaseapp.com/2014/09/17/ohmyzsh&#34;&gt;à cet article&lt;/a&gt; pour plus de détails)&lt;/p&gt;
+&lt;p&gt;Cependant vous voudrez certainement personnaliser votre environnement avec quelques alias. Pour ceci, il suffit de créer un fichier contenant vos alias dans &lt;code&gt;~/.oh-my-zsh/custom/aliases.zsh&lt;/code&gt; (le nom est libre, le fichier doit porter l&amp;rsquo;extension  &lt;code&gt;zsh&lt;/code&gt; pour qu&amp;rsquo;il soit automatiquement chargé). Il ne s&amp;rsquo;agit ni plus ni moins de la configuration permise par oh-my-zsh (vous pouvez vous référer &lt;a href=&#34;http://test.code-troopers.com/2014/09/17/ohmyzsh&#34;&gt;à cet article&lt;/a&gt; pour plus de détails)&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
- &lt;a style=&#34;display: inline&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/postBabun/babun.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;Babun et tmux&#34;&gt;
-         &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postBabun/babun.png&#34; alt=&#34;Babun et tmux&#34;/&gt;
+ &lt;a style=&#34;display: inline&#34; href=&#34;http://test.code-troopers.com/images/postBabun/babun.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;Babun et tmux&#34;&gt;
+         &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postBabun/babun.png&#34; alt=&#34;Babun et tmux&#34;/&gt;
  &lt;/a&gt;
 &lt;/div&gt;
 
@@ -310,10 +310,10 @@ Screencast d&#39;une utilisation quotidienne de ct. Vous n&#39;avez pas de navig
     
     <item>
       <title>oh-my-zsh : l&#39;outil indispensable pour avoir un zsh bien configuré.</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/09/17/ohmyzsh</link>
+      <link>http://test.code-troopers.com/2014/09/17/ohmyzsh</link>
       <pubDate>Wed, 17 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/09/17/ohmyzsh</guid>
+      <guid>http://test.code-troopers.com/2014/09/17/ohmyzsh</guid>
       <description>
 
 &lt;h2 id=&#34;introduction:26f51ad9c57c25287250bbb029ab80fa&#34;&gt;Introduction&lt;/h2&gt;
@@ -353,8 +353,8 @@ J&amp;rsquo;utilisais &lt;a href=&#34;https://github.com/nojhan/liquidprompt&#34
 Voici ce que cela donne avec mon thème (adapté du thème sunrise), que vous pouvez trouver  sur &lt;a href=&#34;https://raw.githubusercontent.com/mattboll/zshrc/master/mattboll.zsh-theme&#34;&gt;GitHub&lt;/a&gt; :&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-&lt;a style=&#34;display: inline&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/postOhMyZsh/oh-my-zsh-theme.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;Thème oh-my-zsh&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postOhMyZsh/oh-my-zsh-theme.png&#34; alt=&#34;Thème oh-my-zsh&#34;/&gt;
+&lt;a style=&#34;display: inline&#34; href=&#34;http://test.code-troopers.com/images/postOhMyZsh/oh-my-zsh-theme.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;Thème oh-my-zsh&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postOhMyZsh/oh-my-zsh-theme.png&#34; alt=&#34;Thème oh-my-zsh&#34;/&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 
@@ -376,10 +376,10 @@ Vous trouverez la liste des plugins dans &lt;code&gt;~/.oh-my-zsh/plugins&lt;/co
     
     <item>
       <title>k is the new l, yo</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/05/14/kisthenewl</link>
+      <link>http://test.code-troopers.com/2014/05/14/kisthenewl</link>
       <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/05/14/kisthenewl</guid>
+      <guid>http://test.code-troopers.com/2014/05/14/kisthenewl</guid>
       <description>&lt;p&gt;&lt;code&gt;ls&lt;/code&gt; est une des commandes shell les plus utilisées, pourtant depuis les années 70 elle a très peu changé. Bien sûr, il y a de nombreuses options, citons &lt;code&gt;ls -a&lt;/code&gt; pour afficher les fichiers cachés, &lt;code&gt;ls -l&lt;/code&gt; pour afficher plus d&amp;rsquo;informations, &lt;code&gt;ls --color&lt;/code&gt; pour afficher deux couleurs, une pour les fichiers et une pour les répertoires, ou encore &lt;code&gt;ls -rtl&lt;/code&gt; pour trier le contenu par date et afficher le plus récent en dernier.&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;ls&lt;/code&gt; est donc une commande utile et pratique mais elle n&amp;rsquo;est pas folichonne. D&amp;rsquo;où la naissance de &lt;code&gt;k&lt;/code&gt; qui a pour but de remplacer &lt;code&gt;ls&lt;/code&gt; avec quelques killer features. Il ne s&amp;rsquo;agit pas d&amp;rsquo;une surcouche de &lt;code&gt;ls&lt;/code&gt; mais d&amp;rsquo;une commande complète, s&amp;rsquo;appuyant directement sur &lt;code&gt;stat&lt;/code&gt; par exemple. À ce jour, les nouvelles fonctionnalités sont les suivantes :&lt;/p&gt;
@@ -394,11 +394,11 @@ Vous trouverez la liste des plugins dans &lt;code&gt;~/.oh-my-zsh/plugins&lt;/co
 &lt;p&gt;Voici un comparatif des deux rendus, version &lt;code&gt;ls&lt;/code&gt; et version &lt;code&gt;k&lt;/code&gt; :&lt;/p&gt;
 
 &lt;p&gt;&lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a style=&#34;display: inline&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/postKisTheNewL/lsalcolor.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;version ls -al --color&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postKisTheNewL/lsalcolor_min.png&#34; alt=&#34;version k&#34;/&gt;
+&lt;a style=&#34;display: inline&#34; href=&#34;http://test.code-troopers.com/images/postKisTheNewL/lsalcolor.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;version ls -al --color&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postKisTheNewL/lsalcolor_min.png&#34; alt=&#34;version k&#34;/&gt;
 &lt;/a&gt;
-&lt;a style=&#34;display: inline&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/postKisTheNewL/k.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;version k&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postKisTheNewL/k_min.png&#34; alt=&#34;version k&#34;/&gt;
+&lt;a style=&#34;display: inline&#34; href=&#34;http://test.code-troopers.com/images/postKisTheNewL/k.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;version k&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postKisTheNewL/k_min.png&#34; alt=&#34;version k&#34;/&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;br/&gt;&lt;/p&gt;

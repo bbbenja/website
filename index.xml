@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/</link>
+    <link>http://test.code-troopers.com/</link>
     <description>Recent content on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 20 May 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Devoxx 2016 : Huntly ou rien !</title>
-      <link>https://blog-7460a.firebaseapp.com/2016/05/20/devoxx-2016-huntly</link>
+      <link>http://test.code-troopers.com/2016/05/20/devoxx-2016-huntly</link>
       <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2016/05/20/devoxx-2016-huntly</guid>
+      <guid>http://test.code-troopers.com/2016/05/20/devoxx-2016-huntly</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;An english version of this blogpost is published on Michaël Bitard&amp;#8217;s blog at &lt;a href=&#34;https://agileek.github.io/java/2016/05/19/devoxx_2016_huntly/&#34;&gt;agileek.github.io&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -33,14 +33,14 @@ il y a eu de publié sur les stores l’application &lt;a href=&#34;https://play
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app1.png&#34; data-lightbox=&#34;2&#34; title=&#34;Devoxx Huntly screenshot&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app1_min.png&#34; alt=&#34;Devoxx Huntly screenshot&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app1.png&#34; data-lightbox=&#34;2&#34; title=&#34;Devoxx Huntly screenshot&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app1_min.png&#34; alt=&#34;Devoxx Huntly screenshot&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app2.png&#34; data-lightbox=&#34;2&#34; title=&#34;Devoxx Huntly screenshot - Liste des quêtes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app2_min.png&#34; alt=&#34;Devoxx Huntly screenshot - Liste de quêtes&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app2.png&#34; data-lightbox=&#34;2&#34; title=&#34;Devoxx Huntly screenshot - Liste des quêtes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app2_min.png&#34; alt=&#34;Devoxx Huntly screenshot - Liste de quêtes&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app3.png&#34; data-lightbox=&#34;2&#34; title=&#34;Devoxx Huntly screenshot - Quête terminée&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app3_min.png&#34; alt=&#34;Devoxx Huntly screenshot - Quête terminée&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app3.png&#34; data-lightbox=&#34;2&#34; title=&#34;Devoxx Huntly screenshot - Quête terminée&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_app3_min.png&#34; alt=&#34;Devoxx Huntly screenshot - Quête terminée&#34;/&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -72,23 +72,23 @@ et sur ce coup-là on peut dire que la team de scalac était au taquet car il y 
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand1.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stant Aldebaran&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand1_min.png&#34; alt=&#34;QRCode sur le stant Aldebaran&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand1.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stant Aldebaran&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand1_min.png&#34; alt=&#34;QRCode sur le stant Aldebaran&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand2.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stand SII&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand2_min.png&#34; alt=&#34;QRCode sur le stand SII&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand2.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stand SII&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand2_min.png&#34; alt=&#34;QRCode sur le stand SII&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand3.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stand Stackoverflow&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand3_min.png&#34; alt=&#34;QRCode sur le stand Stackoverflow&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand3.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stand Stackoverflow&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand3_min.png&#34; alt=&#34;QRCode sur le stand Stackoverflow&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand4.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stand Amazon&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand4_min.png&#34; alt=&#34;QRCode sur le stand Amazon&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand4.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur le stand Amazon&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand4_min.png&#34; alt=&#34;QRCode sur le stand Amazon&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand_huntly.png&#34; data-lightbox=&#34;0&#34; title=&#34;Le stand de Devoxx Huntly&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand_huntly_min.png&#34; alt=&#34;Le stand de Devoxx Huntly&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand_huntly.png&#34; data-lightbox=&#34;0&#34; title=&#34;Le stand de Devoxx Huntly&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_stand_huntly_min.png&#34; alt=&#34;Le stand de Devoxx Huntly&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_porte.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur une porte de salle&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_porte_min.png&#34; alt=&#34;QRCode sur une porte de salle&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_porte.png&#34; data-lightbox=&#34;0&#34; title=&#34;QRCode sur une porte de salle&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_tag_porte_min.png&#34; alt=&#34;QRCode sur une porte de salle&#34;/&gt;
 &lt;/a&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -107,8 +107,8 @@ Il s’est lui-même dénoncé au stand, ça lui a valu un direct de Stefan, en 
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_stephan_pushing_fcamblor.png&#34; data-lightbox=&#34;4&#34; title=&#34;Stephan maltraitant Frédéric&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_stephan_pushing_fcamblor.png&#34; alt=&#34;Stephan maltraitant Frédéric&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_stephan_pushing_fcamblor.png&#34; data-lightbox=&#34;4&#34; title=&#34;Stephan maltraitant Frédéric&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_stephan_pushing_fcamblor.png&#34; alt=&#34;Stephan maltraitant Frédéric&#34;/&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -159,8 +159,8 @@ Et Michaël a donc bien gagné sa place pour DevoxxFR 2017. Quant à moi, ce n�
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_classment_final.png&#34; data-lightbox=&#34;1&#34; title=&#34;Classement final&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_classment_final_min.png&#34; alt=&#34;Classement final&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_classment_final.png&#34; data-lightbox=&#34;1&#34; title=&#34;Classement final&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-DevoxxHuntly/devoxx2016_huntly_classment_final_min.png&#34; alt=&#34;Classement final&#34;/&gt;
 &lt;/a&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;/div&gt;
@@ -181,17 +181,17 @@ on peut être sûrs que ça va vite évoluer et qu’on aura quelque chose de pl
     
     <item>
       <title>Macro Vim : C&#39;est trop génial</title>
-      <link>https://blog-7460a.firebaseapp.com/2016/05/11/vim_macro</link>
+      <link>http://test.code-troopers.com/2016/05/11/vim_macro</link>
       <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2016/05/11/vim_macro</guid>
+      <guid>http://test.code-troopers.com/2016/05/11/vim_macro</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Comme certains d&amp;#8217;entre vous le savent, j&amp;#8217;aime beaucoup Vim. Il n&amp;#8217;y a pas très longtemps au Tours JUG, je disais que je n&amp;#8217;avais pas de cas d&amp;#8217;utilisation des macro dans Vim dont certains disent que c&amp;#8217;est LA killer feature. Et bien j&amp;#8217;ai trouvé un use case et « c&amp;#8217;est trop génial ! » comme dirait Agnès.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-VimMacro/trop_genial.gif&#34; data-lightbox=&#34;0&#34; title=&#34;trop génial&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-05-VimMacro/trop_genial.gif&#34; alt=&#34;trop génial&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-05-VimMacro/trop_genial.gif&#34; data-lightbox=&#34;0&#34; title=&#34;trop génial&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-05-VimMacro/trop_genial.gif&#34; alt=&#34;trop génial&#34;/&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;sect1&#34;&gt;
@@ -266,7 +266,7 @@ $routeProvider.when(&#39;/admin/updateUser/:login&#39;, {templateUrl: &#39;parti
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
-&lt;video style=&#34;width: 100%;&#34; controls src=&#34;https://blog-7460a.firebaseapp.com/videos/vim_macro.webm&#34;&gt;&lt;/video&gt;
+&lt;video style=&#34;width: 100%;&#34; controls src=&#34;http://test.code-troopers.com/videos/vim_macro.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -276,10 +276,10 @@ $routeProvider.when(&#39;/admin/updateUser/:login&#39;, {templateUrl: &#39;parti
     
     <item>
       <title>Android : Feature Toggle avec Google Tag Manager</title>
-      <link>https://blog-7460a.firebaseapp.com/2016/03/30/android_google_tag_manager_feature_toggle</link>
+      <link>http://test.code-troopers.com/2016/03/30/android_google_tag_manager_feature_toggle</link>
       <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2016/03/30/android_google_tag_manager_feature_toggle</guid>
+      <guid>http://test.code-troopers.com/2016/03/30/android_google_tag_manager_feature_toggle</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Le concept de &lt;code&gt;feature toggle&lt;/code&gt; est bien pratique en tant que développeur si l&amp;#8217;on souhaite faire évoluer sa base de code source à un rythme différent de celui des livraisons et des fonctionnalités.
 C&amp;#8217;est souvent le cas lorsqu&amp;#8217;il y a autour du produit une équipe marketing / communication qui s&amp;#8217;occupe d&amp;#8217;annoncer telle ou telle nouvelle fonctionnalité.&lt;/p&gt;
@@ -340,26 +340,26 @@ C&amp;#8217;est via cette IHM et avec les informations que l&amp;#8217;on va y a
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation1.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création du container&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation1_min.png&#34; alt=&#34;Création du container&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation1.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création du container&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation1_min.png&#34; alt=&#34;Création du container&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation2.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création du container - Nom et type&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation2_min.png&#34; alt=&#34;Création du container - Nom et type&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation2.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création du container - Nom et type&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation2_min.png&#34; alt=&#34;Création du container - Nom et type&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_gtmIdGenerated.png&#34; data-lightbox=&#34;0&#34; title=&#34;GTM id généré&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_gtmIdGenerated_min.png&#34; alt=&#34;GTM id généré&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_gtmIdGenerated.png&#34; data-lightbox=&#34;0&#34; title=&#34;GTM id généré&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_gtmIdGenerated_min.png&#34; alt=&#34;GTM id généré&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_screenVariables.png&#34; data-lightbox=&#34;0&#34; title=&#34;Écran &#39;Variables&#39;&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_screenVariables_min.png&#34; alt=&#34;Écran &#39;Variables&#39;&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_screenVariables.png&#34; data-lightbox=&#34;0&#34; title=&#34;Écran &#39;Variables&#39;&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_screenVariables_min.png&#34; alt=&#34;Écran &#39;Variables&#39;&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_createVariable.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création d&amp;#8217;une nouvelle variable&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_createVariable_min.png&#34; alt=&#34;Création d&amp;#8217;une nouvelle variable&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_createVariable.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création d&amp;#8217;une nouvelle variable&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_createVariable_min.png&#34; alt=&#34;Création d&amp;#8217;une nouvelle variable&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_publishContainer.png&#34; data-lightbox=&#34;0&#34; title=&#34;Publication du container&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_publishContainer_min.png&#34; alt=&#34;Publication du container&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_publishContainer.png&#34; data-lightbox=&#34;0&#34; title=&#34;Publication du container&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_publishContainer_min.png&#34; alt=&#34;Publication du container&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_downloadContainer.png&#34; data-lightbox=&#34;0&#34; title=&#34;Téléchargement du container&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_downloadContainer_min.png&#34; alt=&#34;Téléchargement du container&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_downloadContainer.png&#34; data-lightbox=&#34;0&#34; title=&#34;Téléchargement du container&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_downloadContainer_min.png&#34; alt=&#34;Téléchargement du container&#34;/&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
@@ -516,10 +516,10 @@ Cours Udacity d&amp;#8217;explication : &lt;a href=&#34;https://www.udacity.com/
     
     <item>
       <title>Jenkins Workflow Plugin</title>
-      <link>https://blog-7460a.firebaseapp.com/2016/01/20/jenkinsworkflow</link>
+      <link>http://test.code-troopers.com/2016/01/20/jenkinsworkflow</link>
       <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2016/01/20/jenkinsworkflow</guid>
+      <guid>http://test.code-troopers.com/2016/01/20/jenkinsworkflow</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Un des points génants lors de l&amp;#8217;utilisation de Jenkins est le coté volatile de la configuration des jobs de builds.
 Il est souvent nécessaire de jouer de click-click pour faire la configuration des jobs sur Jenkins et de se reposer sur un plugin permettant de versionner,
@@ -848,10 +848,10 @@ node{
     
     <item>
       <title>Startup Weekend : côté perdant</title>
-      <link>https://blog-7460a.firebaseapp.com/2016/01/14/startupweekend-coteperdant</link>
+      <link>http://test.code-troopers.com/2016/01/14/startupweekend-coteperdant</link>
       <pubDate>Thu, 14 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2016/01/14/startupweekend-coteperdant</guid>
+      <guid>http://test.code-troopers.com/2016/01/14/startupweekend-coteperdant</guid>
       <description>
 
 &lt;h2 id=&#34;ou-yo-angularjs-le-meilleur-ami-des-mvp:945cc23a289babed8a7c481e978022e4&#34;&gt;Ou : Yo ! AngularJS, le meilleur ami des MVP&lt;/h2&gt;
@@ -883,19 +883,19 @@ Au final, on a pu commencer à tous faire nos git clone vers 10h le samedi matin
 &lt;p&gt;Le samedi soir, on est dans la vibe. Plus trop besoin de réseau, on a des visuels et nos bibliothèques de base. Pas besoin de s&amp;rsquo;occuper des ravitaillements, on se concentre juste sur le code et c&amp;rsquo;est ça qu&amp;rsquo;on aime.
 Nous avons donc une navbar avec notre logo et les différentes actions de navigation fonctionnelles.
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postWeGuide/navbar1.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;navbar weguide&#34; class=&#34;inlineBoxes&#34;&gt;
-&lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postWeGuide/navbar1.png&#34; alt=&#34;navbar&#34;/&gt;&lt;br/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postWeGuide/navbar1.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;navbar weguide&#34; class=&#34;inlineBoxes&#34;&gt;
+&lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postWeGuide/navbar1.png&#34; alt=&#34;navbar&#34;/&gt;&lt;br/&gt;
     &lt;/a&gt;
 &lt;br/&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postWeGuide/navbar2.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;navbar connected weguide&#34; class=&#34;inlineBoxes&#34;&gt;
-&lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postWeGuide/navbar2.png&#34; alt=&#34;navbar connecté&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postWeGuide/navbar2.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;navbar connected weguide&#34; class=&#34;inlineBoxes&#34;&gt;
+&lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postWeGuide/navbar2.png&#34; alt=&#34;navbar connecté&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;Un logo, une phrase d&amp;rsquo;accroche sur un fond de page avec transition d&amp;rsquo;images en background animé par css (ici en accéléré dans le gif).
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postWeGuide/logo.gif&#34; data-lightbox=&#34;group-3&#34; title=&#34;Logo weguide&#34; class=&#34;inlineBoxes&#34;&gt;
-&lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postWeGuide/logo.gif&#34; alt=&#34;logo&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postWeGuide/logo.gif&#34; data-lightbox=&#34;group-3&#34; title=&#34;Logo weguide&#34; class=&#34;inlineBoxes&#34;&gt;
+&lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postWeGuide/logo.gif&#34; alt=&#34;logo&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;&lt;/p&gt;
 
@@ -903,32 +903,32 @@ Nous avons donc une navbar avec notre logo et les différentes actions de naviga
 On recherche donc une ville, un autocomplete angular material, avec des dates de début et de fin de projet. Si vous connaissez AngularJS, vous savez peut-être qu&amp;rsquo;il n&amp;rsquo;y avait pas de date picker jusqu&amp;rsquo;à peu. Maintenant il y en a mais en RC et c&amp;rsquo;est encore un peu buggué, il a fallu corriger certaines choses liées au style.
 Ah oui, sur le bouton de recherche, en plus du ripple effect il y a un petit effet kiss cool tout en css et évidemment, la ville est mandatory (tout est dans le détail).
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
-&lt;video style=&#34;width: 90%; max-width: 600px;&#34; controls src=&#34;https://blog-7460a.firebaseapp.com/images/postWeGuide/search.webm&#34;&gt;&lt;/video&gt;
+&lt;video style=&#34;width: 90%; max-width: 600px;&#34; controls src=&#34;http://test.code-troopers.com/images/postWeGuide/search.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;On arrive alors sur la page de résultats. Sur cette page au design épuré, nous avons la barre de recherche avec la ville et les dates saisies précédemment.
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postWeGuide/searchbar.png&#34; data-lightbox=&#34;group-4&#34; title=&#34;Searchbar weguide&#34; class=&#34;inlineBoxes&#34;&gt;
-&lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postWeGuide/searchbar.png&#34; alt=&#34;searchbar&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postWeGuide/searchbar.png&#34; data-lightbox=&#34;group-4&#34; title=&#34;Searchbar weguide&#34; class=&#34;inlineBoxes&#34;&gt;
+&lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postWeGuide/searchbar.png&#34; alt=&#34;searchbar&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;S&amp;rsquo;en suit des paramètres par défaut. Des checkbox pour les activités, des doubles sliders pour sélectionner la distance et le prix souhaité.
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postWeGuide/params.gif&#34; data-lightbox=&#34;group-5&#34; title=&#34;search parameters weguide&#34; class=&#34;inlineBoxes&#34;&gt;
-&lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postWeGuide/params.gif&#34; alt=&#34;params&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postWeGuide/params.gif&#34; data-lightbox=&#34;group-5&#34; title=&#34;search parameters weguide&#34; class=&#34;inlineBoxes&#34;&gt;
+&lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postWeGuide/params.gif&#34; alt=&#34;params&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;Au centre, une description du guide, &amp;ldquo;effet zoom pour plus d&amp;rsquo;infos&amp;rdquo; et la possibilité de lui envoyer un message.
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
-&lt;video style=&#34;width: 90%; max-width: 600px;&#34; controls src=&#34;https://blog-7460a.firebaseapp.com/images/postWeGuide/guide.webm&#34;&gt;&lt;/video&gt;
+&lt;video style=&#34;width: 90%; max-width: 600px;&#34; controls src=&#34;http://test.code-troopers.com/images/postWeGuide/guide.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;Enfin, une autre page fonctionnelle a été réalisée pour s&amp;rsquo;inscrire en tant que guide.
 Tout est enregistré dans le local storage avec AngularJS, ça permet d&amp;rsquo;aller vite, de pouvoir jouer avec l&amp;rsquo;appli mais de ne pas avoir besoin d&amp;rsquo;une base de donnée.
 &lt;div style=&#34;text-align: center;margin:50px;&#34;&gt;
-&lt;video style=&#34;width: 90%; max-width: 600px;&#34; controls src=&#34;https://blog-7460a.firebaseapp.com/images/postWeGuide/register.webm&#34;&gt;&lt;/video&gt;
+&lt;video style=&#34;width: 90%; max-width: 600px;&#34; controls src=&#34;http://test.code-troopers.com/images/postWeGuide/register.webm&#34;&gt;&lt;/video&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;Pour en voir plus, vous pouvez aller sur &lt;a href=&#34;https://weguide.herokuapp.com&#34;&gt;https://weguide.herokuapp.com&lt;/a&gt;  et le code est disponible sur &lt;a href=&#34;https://github.com/code-troopers/sw-weguide/&#34;&gt;https://github.com/code-troopers/sw-weguide/&lt;/a&gt; mais ne vous attardez pas trop sur les commits logs :p&lt;/p&gt;
@@ -947,10 +947,10 @@ Ensuite pour le rappeler, AngularJS c&amp;rsquo;est juste trop bien, ce n&amp;rs
     
     <item>
       <title>Navig&#39;Tours : côté serveur</title>
-      <link>https://blog-7460a.firebaseapp.com/2016/01/04/navigtours-cote_serveur</link>
+      <link>http://test.code-troopers.com/2016/01/04/navigtours-cote_serveur</link>
       <pubDate>Mon, 04 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2016/01/04/navigtours-cote_serveur</guid>
+      <guid>http://test.code-troopers.com/2016/01/04/navigtours-cote_serveur</guid>
       <description>
 
 &lt;p&gt;Cet article, une fois n&amp;rsquo;est pas coutume, va rentrer un peu plus dans le fonctionnement de la partie serveur mise en place pour &lt;a href=&#34;http://navigtours.com/&#34;&gt;Navig&amp;rsquo;Tours&lt;/a&gt;.
@@ -1015,10 +1015,10 @@ Pour être capable de gérer des déploiements différents nous avons ajouté qu
     
     <item>
       <title>Android : Publier son apk en ligne de commande</title>
-      <link>https://blog-7460a.firebaseapp.com/2015/11/04/android_publier_apk_avec_gradle</link>
+      <link>http://test.code-troopers.com/2015/11/04/android_publier_apk_avec_gradle</link>
       <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2015/11/04/android_publier_apk_avec_gradle</guid>
+      <guid>http://test.code-troopers.com/2015/11/04/android_publier_apk_avec_gradle</guid>
       <description>
 
 &lt;p&gt;Lorsque l’on fait du développement Android, on a régulièrement besoin de publier des nouvelles versions de l&amp;rsquo;application sur le Play Store.
@@ -1044,11 +1044,11 @@ Si ce n&amp;rsquo;est pas le cas, vous pouvez vous reposer sur la &lt;a href=&#3
 &lt;p&gt;Pour cela, rendez-vous dans un premier temps dans l&amp;rsquo;interface développeur du Play Store, dans la section &lt;code&gt;Settings &amp;gt; API acces&lt;/code&gt; et cliquez sur &lt;code&gt;Create Service Account&lt;/code&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen1.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 1&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen1.png&#34; alt=&#34;Configuration de l&#39;Accout service - 1&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen1.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 1&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen1.png&#34; alt=&#34;Configuration de l&#39;Accout service - 1&#34;/&gt;
   &lt;/a&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen2.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 2&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen2.png&#34; alt=&#34;Configuration de l&#39;Accout service - 2&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen2.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 2&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen2.png&#34; alt=&#34;Configuration de l&#39;Accout service - 2&#34;/&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1059,22 +1059,22 @@ Si ce n&amp;rsquo;est pas le cas, vous pouvez vous reposer sur la &lt;a href=&#3
 &lt;p&gt;On peut ensuite voir qu&amp;rsquo;un nouveau &lt;code&gt;Service account&lt;/code&gt; est apparu dans la liste des Credentials.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen3.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 3&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen3.png&#34; alt=&#34;Configuration de l&#39;Accout service - 3&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen3.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 3&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen3.png&#34; alt=&#34;Configuration de l&#39;Accout service - 3&#34;/&gt;
   &lt;/a&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen4.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 4&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen4.png&#34; alt=&#34;Configuration de l&#39;Accout service - 4&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen4.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 4&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen4.png&#34; alt=&#34;Configuration de l&#39;Accout service - 4&#34;/&gt;
   &lt;/a&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen5.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 5&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen5.png&#34; alt=&#34;Configuration de l&#39;Accout service - 5&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen5.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 5&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen5.png&#34; alt=&#34;Configuration de l&#39;Accout service - 5&#34;/&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;De retour sur l&amp;rsquo;interface d&amp;rsquo;admin du Play Store, on constate que le &lt;code&gt;Service Account&lt;/code&gt; est bien créé et disponible ici.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen6.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 6&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen6.png&#34; alt=&#34;Configuration de l&#39;Accout service - 6&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen6.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 6&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen6.png&#34; alt=&#34;Configuration de l&#39;Accout service - 6&#34;/&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1094,11 +1094,11 @@ Si ce n&amp;rsquo;est pas le cas, vous pouvez vous reposer sur la &lt;a href=&#3
 &lt;p&gt;Ces choix pourront être modifés ultérieurement dans l&amp;rsquo;écran récapitulatif (mais ce n&amp;rsquo;est pas recommandé).&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen7.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 7&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen7.png&#34; alt=&#34;Configuration de l&#39;Accout service - 7&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen7.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 7&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen7.png&#34; alt=&#34;Configuration de l&#39;Accout service - 7&#34;/&gt;
   &lt;/a&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen8.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 8&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen8.png&#34; alt=&#34;Configuration de l&#39;Accout service - 8&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen8.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Configuration de l&#39;Accout service - 8&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_ConfigureAccount_Screen8.png&#34; alt=&#34;Configuration de l&#39;Accout service - 8&#34;/&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1142,11 +1142,11 @@ apply plugin: &#39;com.github.triplet.play&#39;
 &lt;p&gt;On y voit toutes les tâches gradle qu&amp;rsquo;on peut appeler :&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_before.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Liste des tasks gradle disponibles sans le plugin&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_before.png&#34; alt=&#34;Liste des tasks gradle disponibles sans le plugin&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_before.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Liste des tasks gradle disponibles sans le plugin&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_before.png&#34; alt=&#34;Liste des tasks gradle disponibles sans le plugin&#34;/&gt;
   &lt;/a&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_after.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Liste des tasks gradle disponibles avec le plugin&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_after.png&#34; alt=&#34;Liste des tasks gradle disponibles avec le plugin&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_after.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Liste des tasks gradle disponibles avec le plugin&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_after.png&#34; alt=&#34;Liste des tasks gradle disponibles avec le plugin&#34;/&gt;
   &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1172,8 +1172,8 @@ Ce qui peut notamment se faire comme ça :&lt;/p&gt;
 &lt;p&gt;Maintenant, on peut voir la présence de la tâche qui nous intéresse : &lt;code&gt;publishApkRelease&lt;/code&gt;&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_complete.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Liste des tasks gradle disponibles avec upload apk&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_complete.png&#34; alt=&#34;Liste des tasks gradle disponibles avec upload apk&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_complete.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Liste des tasks gradle disponibles avec upload apk&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_tasks_config_complete.png&#34; alt=&#34;Liste des tasks gradle disponibles avec upload apk&#34;/&gt;
   &lt;/a&gt;
 &lt;/div&gt;        
 
@@ -1189,8 +1189,8 @@ Ce qui peut notamment se faire comme ça :&lt;/p&gt;
 &lt;p&gt;Si il y a un problème lors de l&amp;rsquo;updload, il est affiché dans la console, par exemple si le &lt;strong&gt;version code&lt;/strong&gt; est déjà utilisé&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-  &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_upload_ko.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Exemple d&#39;upload d&#39;apk en erreur&#34; class=&#34;inlineBoxes&#34;&gt;
-    &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_upload_ko.png&#34; alt=&#34;Exemple d&#39;upload d&#39;apk en erreur&#34;/&gt;
+  &lt;a href=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_upload_ko.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Exemple d&#39;upload d&#39;apk en erreur&#34; class=&#34;inlineBoxes&#34;&gt;
+    &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAndroidGradlePublishApk/Android_Gradle_PublishAPK_Gradlew_upload_ko.png&#34; alt=&#34;Exemple d&#39;upload d&#39;apk en erreur&#34;/&gt;
   &lt;/a&gt;
 &lt;/div&gt;    
 
@@ -1209,10 +1209,10 @@ Pour savoir comment configurer tout cela, je vous invite à consulter la page gi
     
     <item>
       <title>Monitorer ses conteneurs Docker avec New Relic</title>
-      <link>https://blog-7460a.firebaseapp.com/2015/09/30/newrelicdocker</link>
+      <link>http://test.code-troopers.com/2015/09/30/newrelicdocker</link>
       <pubDate>Wed, 30 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2015/09/30/newrelicdocker</guid>
+      <guid>http://test.code-troopers.com/2015/09/30/newrelicdocker</guid>
       <description>
 
 &lt;p&gt;Si vous ne conaissez pas New Relic, vous loupez quelque chose, c&amp;rsquo;est le service indispensable pour monitorer vos serveurs et vos applications. Il est capable d&amp;rsquo;une part de vous remonter les données physiques de vos serveurs (mémoire, cpu, espace disque), et d&amp;rsquo;autre part d&amp;rsquo;analyser les performances de vos applications (de nombreux langages sont disponibles). Il dispose aussi d&amp;rsquo;un système d&amp;rsquo;alerting, facilement configurable. Tous ces services sont disponibles en version gratuite, avec limitation (nombre de jour limité de rétention des données par exemple). Je vous laisse consulter le &lt;a href=&#34;http://www.newrelic.com&#34;&gt;site officiel&lt;/a&gt; pour plus de détail.&lt;/p&gt;
@@ -1220,8 +1220,8 @@ Pour savoir comment configurer tout cela, je vous invite à consulter la page gi
 &lt;p&gt;Nous allons seulement parler du service de monitoring des serveurs dans cet article.&lt;/p&gt;
 
 &lt;div style=&#34;float:right;margin:20px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postNewrelicDocker/new-relic.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;New Relic Logo&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postNewrelicDocker/new-relic.png&#34; alt=&#34;New Relic Logo&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postNewrelicDocker/new-relic.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;New Relic Logo&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postNewrelicDocker/new-relic.png&#34; alt=&#34;New Relic Logo&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1232,11 +1232,11 @@ Pour savoir comment configurer tout cela, je vous invite à consulter la page gi
 &lt;p&gt;Ce qui est encore plus fort avec le service de monitoring des serveurs de New Relic, c&amp;rsquo;est qu&amp;rsquo;il est capable de comprendre Docker et donc de vous remonter les données par conteneur.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postNewrelicDocker/screen-newrelic-1.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;Screen 1 New Relic&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postNewrelicDocker/screen-newrelic-1.png&#34; alt=&#34;Screen 1 New Relic&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postNewrelicDocker/screen-newrelic-1.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;Screen 1 New Relic&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postNewrelicDocker/screen-newrelic-1.png&#34; alt=&#34;Screen 1 New Relic&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postNewrelicDocker/screen-newrelic-2.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;Screen 2 New Relic&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postNewrelicDocker/screen-newrelic-2.png&#34; alt=&#34;Screen 2 New Relic&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postNewrelicDocker/screen-newrelic-2.png&#34; data-lightbox=&#34;group-3&#34; title=&#34;Screen 2 New Relic&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postNewrelicDocker/screen-newrelic-2.png&#34; alt=&#34;Screen 2 New Relic&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1266,10 +1266,10 @@ Pour savoir comment configurer tout cela, je vous invite à consulter la page gi
     
     <item>
       <title>Android M - Nouvelle gestion de permission</title>
-      <link>https://blog-7460a.firebaseapp.com/2015/09/22/android_m_permissions</link>
+      <link>http://test.code-troopers.com/2015/09/22/android_m_permissions</link>
       <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2015/09/22/android_m_permissions</guid>
+      <guid>http://test.code-troopers.com/2015/09/22/android_m_permissions</guid>
       <description>
 
 &lt;h1 id=&#34;nouvelle-approche:84bad094dd5fba286487f6a75a705f1d&#34;&gt;Nouvelle approche&lt;/h1&gt;
@@ -1299,11 +1299,11 @@ Terminé la popup qui demande les 10 autorisations au moment du téléchargement
  Il faudra donc adapter la gestion de ces permissions à cette éventualité.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p6.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écran App Info&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p6.png&#34; alt=&#34;Écran App Info&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p6.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écran App Info&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p6.png&#34; alt=&#34;Écran App Info&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p5.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écran App Info : détail des permissions&#34;  class=&#34;inlineBoxes&#34;&gt;
-            &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p5.png&#34; alt=&#34;Écran App Info : détail des permissions&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p5.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Écran App Info : détail des permissions&#34;  class=&#34;inlineBoxes&#34;&gt;
+            &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p5.png&#34; alt=&#34;Écran App Info : détail des permissions&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1366,8 +1366,8 @@ dependencies {
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p1.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog de demande d&#39;une permission&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p1.png&#34; alt=&#34;Dialog de demande d&#39;une permission&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p1.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog de demande d&#39;une permission&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p1.png&#34; alt=&#34;Dialog de demande d&#39;une permission&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1399,11 +1399,11 @@ Pour cela il suffit de passer plusieurs permissions dans le tableau passé en pa
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p2.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog de demande de plusieurs permissions 1/2&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p2.png&#34; alt=&#34;Dialog de demande de plusieurs permissions 1/2&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p2.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog de demande de plusieurs permissions 1/2&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p2.png&#34; alt=&#34;Dialog de demande de plusieurs permissions 1/2&#34;/&gt;
     &lt;/a&gt;
-&lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p3.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog de demande de plusieurs permissions 2/2&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p3.png&#34; alt=&#34;Dialog de demande de plusieurs permissions 2/2&#34;/&gt;
+&lt;a href=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p3.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog de demande de plusieurs permissions 2/2&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p3.png&#34; alt=&#34;Dialog de demande de plusieurs permissions 2/2&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1434,8 +1434,8 @@ ActivityCompat.requestPermissions(MainActivity.this,
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p4.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog d&#39;explication sur une demande de permissions&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/2015-09-AndroidMPermissions/p4.png&#34; alt=&#34;Dialog d&#39;explication sur une demande de permissions&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p4.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Dialog d&#39;explication sur une demande de permissions&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/2015-09-AndroidMPermissions/p4.png&#34; alt=&#34;Dialog d&#39;explication sur une demande de permissions&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1457,10 +1457,10 @@ ActivityCompat.requestPermissions(MainActivity.this,
     
     <item>
       <title>Owncloud : solution de cloud en 5 min avec Docker</title>
-      <link>https://blog-7460a.firebaseapp.com/2015/09/09/ownclouddocker</link>
+      <link>http://test.code-troopers.com/2015/09/09/ownclouddocker</link>
       <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2015/09/09/ownclouddocker</guid>
+      <guid>http://test.code-troopers.com/2015/09/09/ownclouddocker</guid>
       <description>
 
 &lt;p&gt;Que ce soit pour des raisons politique de confidentialité ou des raisons technique, &lt;a href=&#34;https://owncloud.org/&#34;&gt;Owncloud&lt;/a&gt; a énormément de qualités comparé à Dropbox ou Google drive. Déjà car la limite de taille des données est celle du serveur, ensuite car des applications sous linux permettent de synchroniser des dossiers et enfin car il existe une multitude d&amp;rsquo;addons qui permettent de sauvegarder ses mots de passe, jouer de la musique, envoyer des notifs sur Slack etc.&lt;/p&gt;
@@ -1529,8 +1529,8 @@ Puis une image owncloud avec des volumes pour les fichiers que l&amp;rsquo;on va
 &lt;p&gt;L&amp;rsquo;article est déjà fini, comme je le disais, ça se fait en un rien de temps. Mais si cela a été aussi rapide, c&amp;rsquo;est parce que Owncloud a une image très bien faîtes donc merci Josh de l&amp;rsquo;avoir mise à disposition &lt;a href=&#34;https://github.com/jchaney/owncloud&#34;&gt;https://github.com/jchaney/owncloud&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postOwncloudDocker/owncloud.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Owncloud site et appli&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postOwncloudDocker/owncloud.png&#34; alt=&#34;Owncloud site et appli&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postOwncloudDocker/owncloud.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Owncloud site et appli&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postOwncloudDocker/owncloud.png&#34; alt=&#34;Owncloud site et appli&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 </description>
@@ -1538,10 +1538,10 @@ Puis une image owncloud avec des volumes pour les fichiers que l&amp;rsquo;on va
     
     <item>
       <title>GIT-SVN comment survivre dans un environnement hostile</title>
-      <link>https://blog-7460a.firebaseapp.com/2015/07/16/gitsvn</link>
+      <link>http://test.code-troopers.com/2015/07/16/gitsvn</link>
       <pubDate>Thu, 16 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2015/07/16/gitsvn</guid>
+      <guid>http://test.code-troopers.com/2015/07/16/gitsvn</guid>
       <description>
 
 &lt;p&gt;Git c’est cool, Git c’est Hype, Git c’est tout récent (&lt;a href=&#34;http://git-scm.com/book/fr/v1/D%C3%A9marrage-rapide-Une-rapide-histoire-de-Git&#34;&gt;enfin presque&lt;/a&gt;) et c’est pour ça qu’on aime bien.
@@ -1650,10 +1650,10 @@ Pour connaître les principales commandes Git, je vous invite à consulter &lt;a
     
     <item>
       <title>Installer votre dépot privé Docker</title>
-      <link>https://blog-7460a.firebaseapp.com/2015/06/25/installdockerregistry</link>
+      <link>http://test.code-troopers.com/2015/06/25/installdockerregistry</link>
       <pubDate>Thu, 25 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2015/06/25/installdockerregistry</guid>
+      <guid>http://test.code-troopers.com/2015/06/25/installdockerregistry</guid>
       <description>
 
 &lt;p&gt;Petit à petit chez Code-Troopers, nous migrons tous nos développements pour utiliser Docker.
@@ -1759,10 +1759,10 @@ docker pull mondepotdocker.tld/monapplication:v1.0.0
     
     <item>
       <title>Améliorer la complétion JavaScript d&#39;IntelliJ IDEA</title>
-      <link>https://blog-7460a.firebaseapp.com/2015/06/10/completionjavascriptdansintellij</link>
+      <link>http://test.code-troopers.com/2015/06/10/completionjavascriptdansintellij</link>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2015/06/10/completionjavascriptdansintellij</guid>
+      <guid>http://test.code-troopers.com/2015/06/10/completionjavascriptdansintellij</guid>
       <description>
 
 &lt;h1 id=&#34;intellij-idea:704fd24739acbd1854643e7dcb3c357a&#34;&gt;IntelliJ IDEA&lt;/h1&gt;
@@ -1796,8 +1796,8 @@ et trouver de la complétion en automatique (ainsi que la JSDoc).&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/2015-06-JavaScriptIntelliJ/cdndl.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Le téléchargement des fichiers sur un CDN [alt+entrée]&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/2015-06-JavaScriptIntelliJ/cdndl.png&#34; alt=&#34;Le téléchargement des fichiers sur un CDN [alt+entrée]&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/2015-06-JavaScriptIntelliJ/cdndl.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Le téléchargement des fichiers sur un CDN [alt+entrée]&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/2015-06-JavaScriptIntelliJ/cdndl.png&#34; alt=&#34;Le téléchargement des fichiers sur un CDN [alt+entrée]&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1806,8 +1806,8 @@ et trouver de la complétion en automatique (ainsi que la JSDoc).&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/2015-06-JavaScriptIntelliJ/settings.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;La fenêtre des paramètres&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/2015-06-JavaScriptIntelliJ/settings.png&#34; alt=&#34;La fenêtre des paramètres&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/2015-06-JavaScriptIntelliJ/settings.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;La fenêtre des paramètres&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/2015-06-JavaScriptIntelliJ/settings.png&#34; alt=&#34;La fenêtre des paramètres&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1822,8 +1822,8 @@ sélectionnez la source &amp;ldquo;TypeScript Community Stubs&amp;rdquo;, vous v
 ainsi qu&amp;rsquo;une documentation précise (pour la plupart des librairies).&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/2015-06-JavaScriptIntelliJ/example.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Jasmine est bien connu par IntelliJ&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/2015-06-JavaScriptIntelliJ/example.png&#34; alt=&#34;Jasmine est bien connu par IntelliJ&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/2015-06-JavaScriptIntelliJ/example.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;Jasmine est bien connu par IntelliJ&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/2015-06-JavaScriptIntelliJ/example.png&#34; alt=&#34;Jasmine est bien connu par IntelliJ&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 </description>
@@ -1831,15 +1831,15 @@ ainsi qu&amp;rsquo;une documentation précise (pour la plupart des librairies).&
     
     <item>
       <title>Android Support Design Library</title>
-      <link>https://blog-7460a.firebaseapp.com/2015/06/06/androiddesignlibrary</link>
+      <link>http://test.code-troopers.com/2015/06/06/androiddesignlibrary</link>
       <pubDate>Sat, 06 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2015/06/06/androiddesignlibrary</guid>
+      <guid>http://test.code-troopers.com/2015/06/06/androiddesignlibrary</guid>
       <description>&lt;p&gt;Avez-vous déjà essayé de transformer vos applications Android pour les rendre conformes aux &lt;a href=&#34;http://www.google.com/design/spec/material-design/introduction.html&#34;&gt;guidelines Material&lt;/a&gt;, si oui, vous avez dû comme nous, vous retrouver à importer plein de librairies tierces pour implémenter par exemple le &lt;code&gt;FAB button&lt;/code&gt;, ou même personnaliser le code pour rendre le &lt;code&gt;NavigationDrawer&lt;/code&gt; conforme (comme ce qui a pu être fait sur le squelette d&amp;rsquo;un &lt;a href=&#34;http://code-troopers.com/2014/11/26/SqueletteAndroid5.html&#34;&gt;précédent article&lt;/a&gt;. Et bien tout ceci est fini (enfin en partie), grâce à la nouvelle librairie Android de Google &lt;a href=&#34;http://developer.android.com/tools/support-library/features.html#design&#34;&gt;Design Support&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center&#34;&gt;
 &lt;video width=&#34;270&#34; height=&#34;444&#34; controls&gt;
-  &lt;source src=&#34;https://blog-7460a.firebaseapp.com/videos/designlibrary-cheesesquare.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;http://test.code-troopers.com/videos/designlibrary-cheesesquare.mp4&#34; type=&#34;video/mp4&#34;&gt;
 Your browser does not support the video tag.
 &lt;/video&gt;
 &lt;/div&gt;
@@ -1873,10 +1873,10 @@ Your browser does not support the video tag.
     
     <item>
       <title>git : quelques astuces de configuration pour vos dotfiles</title>
-      <link>https://blog-7460a.firebaseapp.com/2015/05/22/dotfiles-git</link>
+      <link>http://test.code-troopers.com/2015/05/22/dotfiles-git</link>
       <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2015/05/22/dotfiles-git</guid>
+      <guid>http://test.code-troopers.com/2015/05/22/dotfiles-git</guid>
       <description>
 
 &lt;p&gt;Cet article est le deuxième de la série des &lt;em&gt;dotfiles&lt;/em&gt;. Voir l&amp;rsquo;article sur &lt;a href=&#34;code-troopers.com/2015/05/15/Dotfiles-vim.html&#34;&gt;vimrc&lt;/a&gt;. Nous allons ici aborder quelques configurations indispensables de git.&lt;/p&gt;
@@ -1916,8 +1916,8 @@ $ git config --global user.email &amp;quot;jango.fett@code-troopers.com&amp;quot
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postDotfilesGit/gitcolours.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;git avec couleurs personnalisées&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postDotfilesGit/gitcolours.png&#34; alt=&#34;git avec couleurs personnalisées&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postDotfilesGit/gitcolours.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;git avec couleurs personnalisées&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postDotfilesGit/gitcolours.png&#34; alt=&#34;git avec couleurs personnalisées&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -1952,8 +1952,8 @@ $ git config --global user.email &amp;quot;jango.fett@code-troopers.com&amp;quot
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postDotfilesGit/git-status.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;git status coloré&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postDotfilesGit/git-status.png&#34; alt=&#34;git status coloré&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postDotfilesGit/git-status.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;git status coloré&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postDotfilesGit/git-status.png&#34; alt=&#34;git status coloré&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -2003,8 +2003,8 @@ J&amp;rsquo;ai récupéré le mien sur &lt;a href=&#34;https://github.com/borisg
 &lt;p&gt;On interdit de commiter &lt;code&gt;printStackTrace(&lt;/code&gt; ou &lt;code&gt;FIXME&lt;/code&gt; ou &lt;code&gt;TODO&lt;/code&gt; dans les fichiers &lt;code&gt;java&lt;/code&gt; ou &lt;code&gt;js&lt;/code&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postDotfilesGit/git-hooks.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;git hooks pre-commit en action&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postDotfilesGit/git-hooks.png&#34; alt=&#34;git hooks pre-commit en action&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postDotfilesGit/git-hooks.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;git hooks pre-commit en action&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postDotfilesGit/git-hooks.png&#34; alt=&#34;git hooks pre-commit en action&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 

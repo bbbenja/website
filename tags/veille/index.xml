@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veille on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/veille/</link>
+    <link>http://test.code-troopers.com/tags/veille/</link>
     <description>Recent content in Veille on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Fri, 05 Dec 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/veille/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/veille/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>elCurator devient payant !</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/12/05/elcurator2</link>
+      <link>http://test.code-troopers.com/2014/12/05/elcurator2</link>
       <pubDate>Fri, 05 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/12/05/elcurator2</guid>
+      <guid>http://test.code-troopers.com/2014/12/05/elcurator2</guid>
       <description>
 
 &lt;p&gt;J&amp;rsquo;avais parlé cet été  dans &lt;a href=&#34;http://code-troopers.com/2014/08/08/ElCurator.html&#34;&gt;un autre article&lt;/a&gt; du nouvel outil d&amp;rsquo;&lt;a href=&#34;http://www.octo.com&#34;&gt;OCTO Technology&lt;/a&gt; pour le partage de contenu au sein d&amp;rsquo;une entreprise.
@@ -26,8 +26,8 @@ Depuis, entre Code-Troopers (+ 2 autres amis codeurs) nous l&amp;rsquo;utilisons
 Nulle part sur le site il n&amp;rsquo;est précisé que le produit est en phase bêta (ou de test), et il est meme encore visible sur la page &lt;code&gt;inscription gratuite&lt;/code&gt;&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin-bottom:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postElCurator2/elcurator_home.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;elCurator Home Page&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postElCurator2/elcurator_home.png&#34; alt=&#34;elCurator Home Page&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postElCurator2/elcurator_home.png&#34; data-lightbox=&#34;group-1&#34; title=&#34;elCurator Home Page&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postElCurator2/elcurator_home.png&#34; alt=&#34;elCurator Home Page&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -39,8 +39,8 @@ Nulle part sur le site il n&amp;rsquo;est précisé que le produit est en phase 
 il faut aussi compter l&amp;rsquo;hébergement et sûrement d&amp;rsquo;autres coûts cachés&amp;hellip; Mais tout de même ça commence à représenter un budget.&lt;/p&gt;
 
 &lt;p&gt;&lt;div style=&#34;text-align:center;margin-top:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postElCurator2/elcurator_monde.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;elCurator Page Monde&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postElCurator2/elcurator_monde.png&#34; alt=&#34;elCurator Page Monde&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postElCurator2/elcurator_monde.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;elCurator Page Monde&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postElCurator2/elcurator_monde.png&#34; alt=&#34;elCurator Page Monde&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 C&amp;rsquo;est d&amp;rsquo;autant plus dommage que la fonctionnalité de partage monde, ajoutée après le lancement, et qui permet de trouver facilement des liens
@@ -65,10 +65,10 @@ La seule contrainte étant que les liens soient partagés automatiquement sur le
     
     <item>
       <title>Elcurator, le nouvel outil de curation par Octo</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/08/08/elcurator</link>
+      <link>http://test.code-troopers.com/2014/08/08/elcurator</link>
       <pubDate>Fri, 08 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/08/08/elcurator</guid>
+      <guid>http://test.code-troopers.com/2014/08/08/elcurator</guid>
       <description>
 
 &lt;h2 id=&#34;1-la-curation:04254783c3348c7ac7245cb3bb7f0fc7&#34;&gt;1 - La curation&lt;/h2&gt;

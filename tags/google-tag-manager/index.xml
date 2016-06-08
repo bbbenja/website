@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google Tag Manager on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/google-tag-manager/</link>
+    <link>http://test.code-troopers.com/tags/google-tag-manager/</link>
     <description>Recent content in Google Tag Manager on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 30 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/google-tag-manager/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/google-tag-manager/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Android : Feature Toggle avec Google Tag Manager</title>
-      <link>https://blog-7460a.firebaseapp.com/2016/03/30/android_google_tag_manager_feature_toggle</link>
+      <link>http://test.code-troopers.com/2016/03/30/android_google_tag_manager_feature_toggle</link>
       <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2016/03/30/android_google_tag_manager_feature_toggle</guid>
+      <guid>http://test.code-troopers.com/2016/03/30/android_google_tag_manager_feature_toggle</guid>
       <description>&lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;Le concept de &lt;code&gt;feature toggle&lt;/code&gt; est bien pratique en tant que développeur si l&amp;#8217;on souhaite faire évoluer sa base de code source à un rythme différent de celui des livraisons et des fonctionnalités.
 C&amp;#8217;est souvent le cas lorsqu&amp;#8217;il y a autour du produit une équipe marketing / communication qui s&amp;#8217;occupe d&amp;#8217;annoncer telle ou telle nouvelle fonctionnalité.&lt;/p&gt;
@@ -75,26 +75,26 @@ C&amp;#8217;est via cette IHM et avec les informations que l&amp;#8217;on va y a
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;
 &lt;p&gt;&lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation1.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création du container&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation1_min.png&#34; alt=&#34;Création du container&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation1.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création du container&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation1_min.png&#34; alt=&#34;Création du container&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation2.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création du container - Nom et type&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation2_min.png&#34; alt=&#34;Création du container - Nom et type&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation2.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création du container - Nom et type&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_containerCreation2_min.png&#34; alt=&#34;Création du container - Nom et type&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_gtmIdGenerated.png&#34; data-lightbox=&#34;0&#34; title=&#34;GTM id généré&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_gtmIdGenerated_min.png&#34; alt=&#34;GTM id généré&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_gtmIdGenerated.png&#34; data-lightbox=&#34;0&#34; title=&#34;GTM id généré&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_gtmIdGenerated_min.png&#34; alt=&#34;GTM id généré&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_screenVariables.png&#34; data-lightbox=&#34;0&#34; title=&#34;Écran &#39;Variables&#39;&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_screenVariables_min.png&#34; alt=&#34;Écran &#39;Variables&#39;&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_screenVariables.png&#34; data-lightbox=&#34;0&#34; title=&#34;Écran &#39;Variables&#39;&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_screenVariables_min.png&#34; alt=&#34;Écran &#39;Variables&#39;&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_createVariable.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création d&amp;#8217;une nouvelle variable&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_createVariable_min.png&#34; alt=&#34;Création d&amp;#8217;une nouvelle variable&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_createVariable.png&#34; data-lightbox=&#34;0&#34; title=&#34;Création d&amp;#8217;une nouvelle variable&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_createVariable_min.png&#34; alt=&#34;Création d&amp;#8217;une nouvelle variable&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_publishContainer.png&#34; data-lightbox=&#34;0&#34; title=&#34;Publication du container&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_publishContainer_min.png&#34; alt=&#34;Publication du container&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_publishContainer.png&#34; data-lightbox=&#34;0&#34; title=&#34;Publication du container&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_publishContainer_min.png&#34; alt=&#34;Publication du container&#34;/&gt;
 &lt;/a&gt;
-&lt;a class=&#34;inlineBoxes&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_downloadContainer.png&#34; data-lightbox=&#34;0&#34; title=&#34;Téléchargement du container&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_downloadContainer_min.png&#34; alt=&#34;Téléchargement du container&#34;/&gt;
+&lt;a class=&#34;inlineBoxes&#34; href=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_downloadContainer.png&#34; data-lightbox=&#34;0&#34; title=&#34;Téléchargement du container&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/posts/2016-03-AndroidGoogleTagManager/GoogleTagManager_downloadContainer_min.png&#34; alt=&#34;Téléchargement du container&#34;/&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;paragraph&#34;&gt;

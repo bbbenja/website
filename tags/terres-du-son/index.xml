@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terres Du Son on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/terres-du-son/</link>
+    <link>http://test.code-troopers.com/tags/terres-du-son/</link>
     <description>Recent content in Terres Du Son on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 24 Jun 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/terres-du-son/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/terres-du-son/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>L&#39;application Terres du Son est disponible</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/06/24/tds2</link>
+      <link>http://test.code-troopers.com/2014/06/24/tds2</link>
       <pubDate>Tue, 24 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/06/24/tds2</guid>
+      <guid>http://test.code-troopers.com/2014/06/24/tds2</guid>
       <description>&lt;p&gt;C&amp;rsquo;était annoncé, c&amp;rsquo;est maintenant chose faite ! L&amp;rsquo;application android pour &lt;em&gt;Terres du Son 2014&lt;/em&gt; est sur le Play Store.&lt;/p&gt;
 
 &lt;p&gt;Développée en partenariat avec l&amp;rsquo;équipe de TDS, cette application vous offre la possibilité de :&lt;/p&gt;
@@ -31,20 +31,20 @@
 &lt;/ul&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/launch.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Splash screen de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/launch.png&#34; alt=&#34;Splash screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postTDS2/launch.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Splash screen de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postTDS2/launch.png&#34; alt=&#34;Splash screen&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/home.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Menu de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/home.png&#34; alt=&#34;Menu screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postTDS2/home.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Menu de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postTDS2/home.png&#34; alt=&#34;Menu screen&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/prog.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Programme par jour et par scène&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/prog.png&#34; alt=&#34;Programme screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postTDS2/prog.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Programme par jour et par scène&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postTDS2/prog.png&#34; alt=&#34;Programme screen&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/artiste.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Une fiche artiste de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/artiste.png&#34; alt=&#34;Artist screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postTDS2/artiste.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Une fiche artiste de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postTDS2/artiste.png&#34; alt=&#34;Artist screen&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/notifs.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Récap de notifications plannifiées pour les navettes&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/notifs.png&#34; alt=&#34;Alerte screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postTDS2/notifs.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Récap de notifications plannifiées pour les navettes&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postTDS2/notifs.png&#34; alt=&#34;Alerte screen&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -54,7 +54,7 @@ Et comme pour tous les festivals en région Centre, pensez à venir avec votre g
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
     &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.codetroopers.terresduson&#34;&gt;
-      &lt;img class=&#34;medium&#34; alt=&#34;QRcode application Terres du Son&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postTDS2/qrcode_playstore_tds.png&#34; /&gt;
+      &lt;img class=&#34;medium&#34; alt=&#34;QRcode application Terres du Son&#34; src=&#34;http://test.code-troopers.com/images/postTDS2/qrcode_playstore_tds.png&#34; /&gt;
     &lt;/a&gt;
     &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.codetroopers.terresduson&#34;&gt;
       &lt;img alt=&#34;Get it on Google Play&#34; src=&#34;https://developer.android.com/images/brand/fr_generic_rgb_wo_60.png&#34; /&gt;
@@ -70,15 +70,15 @@ il est nécessaire de connecter son compte &lt;a href=&#34;http://www.deezer.com
     
     <item>
       <title>Application officielle Android pour Terres du son 2014</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/04/08/terresduson</link>
+      <link>http://test.code-troopers.com/2014/04/08/terresduson</link>
       <pubDate>Tue, 08 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/04/08/terresduson</guid>
+      <guid>http://test.code-troopers.com/2014/04/08/terresduson</guid>
       <description>&lt;p&gt;Comme vous avez pu le voir dans un &lt;a href=&#34;http://code-troopers.com/2014/03/17/Aucard.html&#34;&gt;article précédent&lt;/a&gt;, Code-Troopers est en train de réaliser l&amp;rsquo;application officielle Android pour &lt;a href=&#34;http://www.radiobeton.com/aucard/&#34;&gt;Aucard de Tours&lt;/a&gt;. Deuxième bonne nouvelle, nous réalisons aussi l&amp;rsquo;application officielle Android pour un autre festival tourangeau, &lt;a href=&#34;http://terresduson.com/&#34;&gt;Terres du son&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;text-align : center&#34;&gt;
-&lt;a style=&#34;display: inline&#34; href=&#34;https://blog-7460a.firebaseapp.com/images/postTDS/tds.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;Logo Terres du son&#34;&gt;
-        &lt;img class=&#34;mini&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postTDS/tds.png&#34; alt=&#34;tds logo&#34;/&gt;
+&lt;a style=&#34;display: inline&#34; href=&#34;http://test.code-troopers.com/images/postTDS/tds.png&#34; data-lightbox=&#34;image-0&#34; title=&#34;Logo Terres du son&#34;&gt;
+        &lt;img class=&#34;mini&#34; src=&#34;http://test.code-troopers.com/images/postTDS/tds.png&#34; alt=&#34;tds logo&#34;/&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 

@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aucard on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/aucard/</link>
+    <link>http://test.code-troopers.com/tags/aucard/</link>
     <description>Recent content in Aucard on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 14 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/aucard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/aucard/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sortie de l&#39;appli Aucard de Tours</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/04/14/aucard2</link>
+      <link>http://test.code-troopers.com/2014/04/14/aucard2</link>
       <pubDate>Mon, 14 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/04/14/aucard2</guid>
+      <guid>http://test.code-troopers.com/2014/04/14/aucard2</guid>
       <description>&lt;p&gt;Suite à notre &lt;a href=&#34;http://code-troopers.com/2014/03/17/Aucard.html&#34;&gt;partenariat avec Radio Béton&lt;/a&gt;, nous vous annonçons la mise à disposition sur le Play Store de l&amp;rsquo;application officielle du festival Aucard de Tours 2014.&lt;/p&gt;
 
-&lt;p&gt;Comme vous le savez sûrement le festival Aucard de Tours, qui souhaite favoriser la découverte, ne divulgue pas la programmation heure par heure. C&amp;rsquo;est pourquoi ce n&amp;rsquo;est qu&amp;rsquo;une fois rentrés dans l&amp;rsquo;enceinte du festival que vous prenez connaissance du programme de la soirée &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/aucard_tableau.jpg&#34; title=&#34;Tableau de la programmation&#34; data-lightbox=&#34;image-1&#34; class=&#34;inlineBoxes&#34;&gt; sur le tableau&lt;/a&gt;. Grâce à l&amp;rsquo;application Android, vous pourrez scanner un QR code (sur ce même tableau) pour disposer du programme complet de la soirée sur votre mobile. Fini les allers-retours au tableau pour savoir quel est le prochain concert.&lt;/p&gt;
+&lt;p&gt;Comme vous le savez sûrement le festival Aucard de Tours, qui souhaite favoriser la découverte, ne divulgue pas la programmation heure par heure. C&amp;rsquo;est pourquoi ce n&amp;rsquo;est qu&amp;rsquo;une fois rentrés dans l&amp;rsquo;enceinte du festival que vous prenez connaissance du programme de la soirée &lt;a href=&#34;http://test.code-troopers.com/images/postAucard2/aucard_tableau.jpg&#34; title=&#34;Tableau de la programmation&#34; data-lightbox=&#34;image-1&#34; class=&#34;inlineBoxes&#34;&gt; sur le tableau&lt;/a&gt;. Grâce à l&amp;rsquo;application Android, vous pourrez scanner un QR code (sur ce même tableau) pour disposer du programme complet de la soirée sur votre mobile. Fini les allers-retours au tableau pour savoir quel est le prochain concert.&lt;/p&gt;
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen1.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Splash screen de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen1.png&#34; alt=&#34;Splash screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postAucard2/screen1.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Splash screen de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAucard2/screen1.png&#34; alt=&#34;Splash screen&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen2.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Menu de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen2.png&#34; alt=&#34;Menu screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postAucard2/screen2.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Menu de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAucard2/screen2.png&#34; alt=&#34;Menu screen&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen3.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Home screen de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen3.png&#34; alt=&#34;Home screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postAucard2/screen3.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Home screen de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAucard2/screen3.png&#34; alt=&#34;Home screen&#34;/&gt;
     &lt;/a&gt;
-    &lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen4.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Une fiche artiste de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
-        &lt;img class=&#34;medium&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/screen4.png&#34; alt=&#34;Artist screen&#34;/&gt;
+    &lt;a href=&#34;http://test.code-troopers.com/images/postAucard2/screen4.png&#34; data-lightbox=&#34;group-2&#34; title=&#34;Une fiche artiste de l&#39;application&#34; class=&#34;inlineBoxes&#34;&gt;
+        &lt;img class=&#34;medium&#34; src=&#34;http://test.code-troopers.com/images/postAucard2/screen4.png&#34; alt=&#34;Artist screen&#34;/&gt;
     &lt;/a&gt;
 &lt;/div&gt;
 
@@ -48,7 +48,7 @@ il est nécessaire de connecter son compte &lt;a href=&#34;http://www.deezer.com
 
 &lt;div style=&#34;text-align:center;margin:50px&#34;&gt;
     &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.codetroopers.aucard&#34;&gt;
-      &lt;img class=&#34;medium&#34; alt=&#34;QRcode application Aucard de Tours&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAucard2/qrcode_playstore_aucard.png&#34; /&gt;
+      &lt;img class=&#34;medium&#34; alt=&#34;QRcode application Aucard de Tours&#34; src=&#34;http://test.code-troopers.com/images/postAucard2/qrcode_playstore_aucard.png&#34; /&gt;
     &lt;/a&gt;
     &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.codetroopers.aucard&#34;&gt;
       &lt;img alt=&#34;Get it on Google Play&#34; src=&#34;https://developer.android.com/images/brand/fr_generic_rgb_wo_60.png&#34; /&gt;
@@ -61,18 +61,18 @@ il est nécessaire de connecter son compte &lt;a href=&#34;http://www.deezer.com
     
     <item>
       <title>Code-Troopers &#43; Aucard de Tours = Appli Android</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/03/17/aucard</link>
+      <link>http://test.code-troopers.com/2014/03/17/aucard</link>
       <pubDate>Mon, 17 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/03/17/aucard</guid>
+      <guid>http://test.code-troopers.com/2014/03/17/aucard</guid>
       <description>&lt;p&gt;
    L&#39;équipe Code-Troopers est fière de vous annoncer son implication dans la vie tourangelle via la réalisation de
    l&#39;application officielle du festival &lt;a href=&#34;http://www.radiobeton.com/aucard/&#34; &gt;Aucard de Tours&lt;/a&gt;.
 &lt;/p&gt;
 
 
-&lt;a href=&#34;https://blog-7460a.firebaseapp.com/images/postAucard/aucard2014.jpg&#34; data-lightbox=&#34;image-1&#34; title=&#34;Affiche du festival Aucard de Tours 2014&#34;&gt;
-    &lt;img class=&#34;mini&#34; src=&#34;https://blog-7460a.firebaseapp.com/images/postAucard/aucard2014.jpg&#34; alt=&#34;Affiche du festival Aucard de Tours 2014&#34;/&gt;
+&lt;a href=&#34;http://test.code-troopers.com/images/postAucard/aucard2014.jpg&#34; data-lightbox=&#34;image-1&#34; title=&#34;Affiche du festival Aucard de Tours 2014&#34;&gt;
+    &lt;img class=&#34;mini&#34; src=&#34;http://test.code-troopers.com/images/postAucard/aucard2014.jpg&#34; alt=&#34;Affiche du festival Aucard de Tours 2014&#34;/&gt;
 &lt;/a&gt;
 
 &lt;p&gt;

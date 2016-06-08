@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oss on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/oss/</link>
+    <link>http://test.code-troopers.com/tags/oss/</link>
     <description>Recent content in Oss on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 19 Mar 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/oss/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/oss/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Distribuer sur Maven Central ses bibliothèques</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/03/19/mavenrelease</link>
+      <link>http://test.code-troopers.com/2014/03/19/mavenrelease</link>
       <pubDate>Wed, 19 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/03/19/mavenrelease</guid>
+      <guid>http://test.code-troopers.com/2014/03/19/mavenrelease</guid>
       <description>
 
 &lt;h2 id=&#34;cas-d-utilisation:e85e2af246504409f80551d64d5a069c&#34;&gt;Cas d&amp;rsquo;utilisation&lt;/h2&gt;

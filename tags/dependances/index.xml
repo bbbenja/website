@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dependances on Code-Troopers - Vous avez une idée, nous la réalisons</title>
-    <link>https://blog-7460a.firebaseapp.com/tags/dependances/</link>
+    <link>http://test.code-troopers.com/tags/dependances/</link>
     <description>Recent content in Dependances on Code-Troopers - Vous avez une idée, nous la réalisons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog-7460a.firebaseapp.com/tags/dependances/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://test.code-troopers.com/tags/dependances/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Résoudre les conflits de dépendances</title>
-      <link>https://blog-7460a.firebaseapp.com/2014/09/01/conflitsdependances</link>
+      <link>http://test.code-troopers.com/2014/09/01/conflitsdependances</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog-7460a.firebaseapp.com/2014/09/01/conflitsdependances</guid>
+      <guid>http://test.code-troopers.com/2014/09/01/conflitsdependances</guid>
       <description>
 
 &lt;p&gt;Lors de nos développements, nous reposons beaucoup sur des projets externes qui nous fournissent énormément de services
